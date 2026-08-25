@@ -6,13 +6,13 @@
       "pages": [
         1
       ],
-      "length": 2,
+      "length": 1,
       "occurred_at": {
         "2007": {
           "pages": [
             1
           ],
-          "length": 2
+          "length": 1
         }
       }
     },
@@ -20,13 +20,13 @@
       "pages": [
         1
       ],
-      "length": 2,
+      "length": 1,
       "occurred_at": {
         "2010": {
           "pages": [
             1
           ],
-          "length": 2
+          "length": 1
         }
       }
     },
@@ -35,37 +35,37 @@
         1,
         2
       ],
-      "length": 10,
+      "length": 5,
       "occurred_at": {
         "2014": {
           "pages": [
             1
           ],
-          "length": 2
+          "length": 1
         },
         "2015": {
           "pages": [
             1
           ],
-          "length": 2
+          "length": 1
         },
         "2011": {
           "pages": [
             1
           ],
-          "length": 2
+          "length": 1
         },
         "2010": {
           "pages": [
             1
           ],
-          "length": 2
+          "length": 1
         },
         "2013": {
           "pages": [
             2
           ],
-          "length": 2
+          "length": 1
         }
       }
     },
@@ -74,19 +74,19 @@
         1,
         2
       ],
-      "length": 4,
+      "length": 2,
       "occurred_at": {
         "2025": {
           "pages": [
             1
           ],
-          "length": 2
+          "length": 1
         },
         "2012": {
           "pages": [
             2
           ],
-          "length": 2
+          "length": 1
         }
       }
     },
@@ -95,26 +95,26 @@
         1,
         2
       ],
-      "length": 16,
+      "length": 8,
       "occurred_at": {
         "2011": {
           "pages": [
             1
           ],
-          "length": 4
+          "length": 2
         },
         "2012": {
           "pages": [
             1,
             2
           ],
-          "length": 4
+          "length": 2
         },
         "2013": {
           "pages": [
             2
           ],
-          "length": 8
+          "length": 4
         }
       }
     },
@@ -123,103 +123,6 @@
         1,
         2,
         3
-      ],
-      "length": 24,
-      "occurred_at": {
-        "2011": {
-          "pages": [
-            1
-          ],
-          "length": 4
-        },
-        "2012": {
-          "pages": [
-            1,
-            2
-          ],
-          "length": 8
-        },
-        "2012, 2015, 2018": {
-          "pages": [
-            2
-          ],
-          "length": 2
-        },
-        "2013": {
-          "pages": [
-            2
-          ],
-          "length": 6
-        },
-        "2026": {
-          "pages": [
-            2,
-            3
-          ],
-          "length": 4
-        }
-      }
-    },
-    "Comemorações e Datas Históricas": {
-      "pages": [
-        1
-      ],
-      "length": 2,
-      "occurred_at": {
-        "2011": {
-          "pages": [
-            1
-          ],
-          "length": 2
-        }
-      }
-    },
-    "Cultura e Lazer": {
-      "pages": [
-        1,
-        2
-      ],
-      "length": 4,
-      "occurred_at": {
-        "2011": {
-          "pages": [
-            1
-          ],
-          "length": 2
-        },
-        "2012": {
-          "pages": [
-            2
-          ],
-          "length": 2
-        }
-      }
-    },
-    "Tecnologia e Inovação": {
-      "pages": [
-        1,
-        2
-      ],
-      "length": 6,
-      "occurred_at": {
-        "2025": {
-          "pages": [
-            1
-          ],
-          "length": 2
-        },
-        "2012": {
-          "pages": [
-            2
-          ],
-          "length": 4
-        }
-      }
-    },
-    "Pesquisa e Pós-Graduação": {
-      "pages": [
-        1,
-        2
       ],
       "length": 12,
       "occurred_at": {
@@ -236,11 +139,108 @@
           ],
           "length": 4
         },
+        "2012, 2015, 2018": {
+          "pages": [
+            2
+          ],
+          "length": 1
+        },
         "2013": {
           "pages": [
             2
           ],
-          "length": 6
+          "length": 3
+        },
+        "2026": {
+          "pages": [
+            2,
+            3
+          ],
+          "length": 2
+        }
+      }
+    },
+    "Comemorações e Datas Históricas": {
+      "pages": [
+        1
+      ],
+      "length": 1,
+      "occurred_at": {
+        "2011": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        }
+      }
+    },
+    "Cultura e Lazer": {
+      "pages": [
+        1,
+        2
+      ],
+      "length": 2,
+      "occurred_at": {
+        "2011": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        },
+        "2012": {
+          "pages": [
+            2
+          ],
+          "length": 1
+        }
+      }
+    },
+    "Tecnologia e Inovação": {
+      "pages": [
+        1,
+        2
+      ],
+      "length": 3,
+      "occurred_at": {
+        "2025": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        },
+        "2012": {
+          "pages": [
+            2
+          ],
+          "length": 2
+        }
+      }
+    },
+    "Pesquisa e Pós-Graduação": {
+      "pages": [
+        1,
+        2
+      ],
+      "length": 6,
+      "occurred_at": {
+        "2011": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        },
+        "2012": {
+          "pages": [
+            1,
+            2
+          ],
+          "length": 2
+        },
+        "2013": {
+          "pages": [
+            2
+          ],
+          "length": 3
         }
       }
     }
