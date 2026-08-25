@@ -18,6 +18,32 @@
 	<meta name="twitter:image" content="https://memoriacao.github.io/site/resource/images/og-cover.jpg">
 	<meta name="theme-color" content="#C62A2A">
 
+	<!-- Google tag (gtag.js) - Google Analytics 4 (ID: G-3R5RY33MNQ) -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3R5RY33MNQ"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		// Consent Mode v2: verifica consentimento prévio ou define padrões seguros
+		var savedConsent = null;
+		try {
+			savedConsent = localStorage.getItem('cookie_consent');
+		} catch (e) {}
+
+		gtag('consent', 'default', {
+			'ad_storage': 'denied',
+			'ad_user_data': 'denied',
+			'ad_personalization': 'denied',
+			'analytics_storage': savedConsent === 'accepted' ? 'granted' : 'denied'
+		});
+
+		gtag('config', 'G-3R5RY33MNQ', {
+			send_page_view: false, // SPA: O page_view é gerenciado pelo Vue Router com título e rota precisos
+			cookie_flags: 'SameSite=None;Secure'
+		});
+	</script>
+
 	<script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "WebSite",
@@ -40,8 +66,8 @@
 	<link rel="icon" type="image/png" sizes="32x32" href="https://memoriacao.github.io/site/resource/icones/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="https://memoriacao.github.io/site/resource/icones/favicon-16x16.png">
 	<link rel="manifest" href="https://memoriacao.github.io/site/manifest.json">
-  <script type="module" crossorigin="" src="/site/assets/index-COg0-MQv.js"></script>
-  <link rel="stylesheet" crossorigin="" href="/site/assets/index-CPFQ4mNs.css">
+  <script type="module" crossorigin="" src="/site/assets/index-COsIsBn1.js"></script>
+  <link rel="stylesheet" crossorigin="" href="/site/assets/index-RteOlHwk.css">
 </head>
 
 <body>
