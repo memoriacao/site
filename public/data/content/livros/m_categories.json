@@ -1,0 +1,104 @@
+{
+  "data": {
+    "Livros acadêmicos": {
+      "pages": [
+        1
+      ],
+      "length": 7,
+      "occurred_at": {
+        "2026": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        },
+        "2021": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        },
+        "2022": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        },
+        "2020": {
+          "pages": [
+            1
+          ],
+          "length": 2
+        },
+        "2024": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        },
+        "2015": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        }
+      }
+    },
+    "Livros técnicos": {
+      "pages": [
+        1
+      ],
+      "length": 3,
+      "occurred_at": {
+        "2024": {
+          "pages": [
+            1
+          ],
+          "length": 2
+        },
+        "2023": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        }
+      }
+    },
+    "Livros científicos": {
+      "pages": [
+        1
+      ],
+      "length": 2,
+      "occurred_at": {
+        "2023": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        },
+        "2024": {
+          "pages": [
+            1
+          ],
+          "length": 1
+        }
+      }
+    },
+    "Literatura": {
+      "pages": [
+        2
+      ],
+      "length": 1,
+      "occurred_at": {
+        "2015": {
+          "pages": [
+            2
+          ],
+          "length": 1
+        }
+      }
+    }
+  },
+  "last_page": 2,
+  "size_post": 13
+}

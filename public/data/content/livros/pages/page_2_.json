@@ -1,0 +1,55 @@
+{
+  "page": 2,
+  "total_pages": 2,
+  "total_items": 13,
+  "books": [
+    {
+      "id": 15,
+      "publication_year": 2015,
+      "title": "Questões étnico-religiosas, sociais e de gênero",
+      "abstract": "uma reafirmação das minorias historicamente excluídas a partir da análise crítica da comunidade da Galácia (gl 3,26-28) no primeiro século..",
+      "keywords": "",
+      "authors": "Ailton Leite",
+      "source_link": "",
+      "pdf_link": "https://releia.ifsertao-pe.edu.br/jspui/bitstream/123456789/561/1/Quest%c3%b5es%20%c3%a9tnico-religiosas.pdf",
+      "isbn": "978-85-64794-05-4",
+      "cover": "/site/images/book-covers/questoes-etnico-religiosas-sociais-e-de-genero-osnfql.webp",
+      "categorie": "Literatura",
+      "views": 0,
+      "slug": "questoes-etnico-religiosas-sociais-e-de-genero",
+      "cover_image_id": 6,
+      "published_date": "2015-01-01",
+      "author": "Ailton Leite",
+      "category": "Literatura",
+      "description": "uma reafirmação das minorias historicamente excluídas a partir da análise crítica da comunidade da Galácia (gl 3,26-28) no primeiro século..",
+      "created_at": "2026-08-09 21:43:56",
+      "updated_at": "2026-08-09 21:53:03",
+      "pdf_url": "https://releia.ifsertao-pe.edu.br/jspui/bitstream/123456789/561/1/Quest%c3%b5es%20%c3%a9tnico-religiosas.pdf"
+    }
+  ],
+  "items": [
+    {
+      "id": 15,
+      "publication_year": 2015,
+      "title": "Questões étnico-religiosas, sociais e de gênero",
+      "abstract": "uma reafirmação das minorias historicamente excluídas a partir da análise crítica da comunidade da Galácia (gl 3,26-28) no primeiro século..",
+      "keywords": "",
+      "authors": "Ailton Leite",
+      "source_link": "",
+      "pdf_link": "https://releia.ifsertao-pe.edu.br/jspui/bitstream/123456789/561/1/Quest%c3%b5es%20%c3%a9tnico-religiosas.pdf",
+      "isbn": "978-85-64794-05-4",
+      "cover": "/site/images/book-covers/questoes-etnico-religiosas-sociais-e-de-genero-osnfql.webp",
+      "categorie": "Literatura",
+      "views": 0,
+      "slug": "questoes-etnico-religiosas-sociais-e-de-genero",
+      "cover_image_id": 6,
+      "published_date": "2015-01-01",
+      "author": "Ailton Leite",
+      "category": "Literatura",
+      "description": "uma reafirmação das minorias historicamente excluídas a partir da análise crítica da comunidade da Galácia (gl 3,26-28) no primeiro século..",
+      "created_at": "2026-08-09 21:43:56",
+      "updated_at": "2026-08-09 21:53:03",
+      "pdf_url": "https://releia.ifsertao-pe.edu.br/jspui/bitstream/123456789/561/1/Quest%c3%b5es%20%c3%a9tnico-religiosas.pdf"
+    }
+  ]
+}
