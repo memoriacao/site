@@ -1,0 +1,1791 @@
+[
+  {
+    "ask": "Em qual ano o campus Salgueiro do IFSertãoPE realizou o II Festival de Arte e Cultura como parte das comemorações de seus 15 anos?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/09/08/campus-salgueiro-realizara-ii-festival-de-arte-e-cultura/",
+    "response type": "unique",
+    "response": "2025"
+  },
+  {
+    "ask": "O programa 'Mulheres Mil' promove inclusão social e transformação na vida de mulheres em situação de vulnerabilidade em Salgueiro e Serrita.",
+    "axio": "projetos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/09/02/ifsertaope-campus-salgueiro-segue-transformando-vidas-com-o-programa-mulheres-mil-ciclo-3/",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual foi o nome da campanha institucional lançada pelo IFSertãoPE em agosto de 2025?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/08/13/ifsertaope-lanca-campanha-institucional-muitos-caminhos-um-so-sertao/",
+    "response type": "choise",
+    "choice": [
+      "Muitos caminhos, um só Sertão",
+      "IFSertãoPE: Uma Escolha de Futuro",
+      "Educação no Sertão Central",
+      "Caminhos da Inclusão"
+    ],
+    "response": "Muitos caminhos, um só Sertão"
+  },
+  {
+    "ask": "O campus Salgueiro iniciou a construção do primeiro Centro de Inovação e Cultura Maker do Sertão no início do ano de 2024.",
+    "axio": "historia",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/01/17/campus-salgueiro-tera-1o-centro-de-inovacao-do-sertao-em-2024/",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Quem foi o primeiro aluno cego a concluir o curso superior de Tecnologia em Sistemas para Internet no campus Salgueiro em 2024?",
+    "axio": "conquistas",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/10/02/walla-nascimento-e-o-primeiro-aluno-cego-a-concluir-o-curso-de-tecnologia-em-sistemas-para-internet-no-campus-salgueiro/",
+    "response type": "unique",
+    "response": "Walla Nascimento de Sousa"
+  },
+  {
+    "ask": "Qual professora do campus Salgueiro publicou uma pesquisa pioneira sobre o ensino de Química para autistas na Revista Química Nova em 2024?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16590-publicacao",
+    "response type": "unique",
+    "response": "Maria Lair Sabóia"
+  },
+  {
+    "ask": "Qual foi o tema central abordado na 21ª Semana Nacional de Ciência e Tecnologia realizada pelo campus Salgueiro em novembro de 2024?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/11/11/campus-salgueiro-realiza-a-21a-semana-nacional-de-ciencia-e-tecnologia-com-programacao-dedicada-aos-biomas-brasileiros/",
+    "response type": "choise",
+    "choice": [
+      "Biomas do Brasil: diversidade, saberes e tecnologias sociais",
+      "Ciência Básica para o Desenvolvimento Sustentável",
+      "Inteligência Artificial e o Futuro do Sertão",
+      "Inovação Tecnológica na Agricultura Familiar"
+    ],
+    "response": "Biomas do Brasil: diversidade, saberes e tecnologias sociais"
+  },
+  {
+    "ask": "O seminário regional 'Todos por Pernambuco', realizado em março de 2015, reuniu mais de mil pessoas nas dependências do campus Salgueiro.",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1690:seminario-todos-por-pernambuco-reune-governo-e-sociedade-civil-para-debater-politicas-publicas-no-if-sertao-pe&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual nota o curso superior de Tecnologia em Sistemas para Internet conquistou na avaliação do MEC realizada em novembro de 2023?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16245-reconhecimento-3",
+    "response type": "choise",
+    "choice": [
+      "Nota 2",
+      "Nota 3",
+      "Nota 4",
+      "Nota 5"
+    ],
+    "response": "Nota 4"
+  },
+  {
+    "ask": "Quem foi eleito Diretor-Geral do campus Salgueiro para a gestão 2024-2028 na consulta pública de dezembro de 2023?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16317-eleicoes-7",
+    "response type": "unique",
+    "response": "Rônero Domingos"
+  },
+  {
+    "ask": "Qual projeto de inovação da Incubadora Maker do campus Salgueiro conquistou o terceiro lugar no Prêmio AgroInnova em 2023?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15623-premiacao-2",
+    "response type": "unique",
+    "response": "Projeto Sigma"
+  },
+  {
+    "ask": "Qual é o valor aprovado pela SETEC/MEC em 2023 destinado especificamente à construção do refeitório do campus Salgueiro?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15797-refeitorio",
+    "response type": "choise",
+    "choice": [
+      "R$ 500.000,00",
+      "R$ 1.000.000,00",
+      "R$ 1.500.000,00",
+      "R$ 2.000.000,00"
+    ],
+    "response": "R$ 2.000.000,00"
+  },
+  {
+    "ask": "Quem foi o primeiro aluno de graduação a se formar na história do campus Salgueiro em uma cerimônia no ano de 2015?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1662:no-ano-do-seu-5o-aniversario-campus-salgueiro-forma-primeiro-aluno-de-graduacao&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Luís Cícero Bezerra"
+  },
+  {
+    "ask": "Qual estudante do curso de Agropecuária obteve a nota 940 na redação do ENEM de 2021 com o apoio dos docentes do instituto?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13464-enem-2021",
+    "response type": "unique",
+    "response": "Jaélisson Silva"
+  },
+  {
+    "ask": "A primeira extração de mel realizada no campus Salgueiro ocorreu no ano de 2014 com os estudantes do curso técnico em Agropecuária.",
+    "axio": "curiosidade",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1601:alunos-do-curso-tecnico-em-agropecuaria-realizam-primeira-extracao-de-mel-do-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual foi a grande inovação apresentada no TCC de Informática pelo aluno Rafael Kellwis da Silva em 2015 usando o microcomputador Raspberry?",
+    "axio": "curiosidade",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1674:concluintes-do-curso-tecnico-em-informatica-usam-a-eletronica-para-criar-projetos-inovadores&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Sistema de automatização eletrônica residencial"
+  },
+  {
+    "ask": "Qual é o nome da trilha ecológica de 350 metros inaugurada pelo campus Salgueiro em setembro de 2022?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14502-trilha-ecologica",
+    "response type": "unique",
+    "response": "Trilha Moça Branca"
+  },
+  {
+    "ask": "Qual projeto extracurricular focado na Economia 4.0 serviu de base para a criação da 'Plataforma Deméter' em 2022?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13415-selecao-de-bolsistas",
+    "response type": "unique",
+    "response": "Oficinas 4.0"
+  },
+  {
+    "ask": "O projeto 'Solo & Vida' tem como objetivo popularizar o conhecimento sobre solos em escolas rurais de Salgueiro, como no distrito de Umãs.",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14825-evento-27",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual curso livre foi ofertado em parceria com a Escola do Legislativo no Salgueiro Shopping em junho de 2023?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15638-resultado-20",
+    "response type": "unique",
+    "response": "FIC em Psicologia da Educação e Abordagens Pedagógicas"
+  },
+  {
+    "ask": "O campus Salgueiro participou do III Encontro com as Artes, as Lutas, os Saberes e os Sabores da Comunidade Quilombola de Conceição das Crioulas em 2023.",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15716-evento-29",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual plano de saúde firmou um convênio único com a União, gerando uma campanha de adesão sem carência para os servidores em 2014?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1415:convenio-entre-a-geap-e-o-if-sertao-pe-ja-esta-em-funcionamento-servidores-tem-ate-4-de-fevereiro-para-aderirem-ao-plano-com-isencao-integral-de-carencia&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "GEAP"
+  },
+  {
+    "ask": "De quantos integrantes era composto o primeiro coral natalino do campus Salgueiro que realizou apresentações públicas em dezembro de 2014?",
+    "axio": "eventos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1631:coral-formado-por-alunos-e-servidores-do-campus-salgueiro-fara-apresentacao-publica-dia-11&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "36 integrantes"
+  },
+  {
+    "ask": "Em qual cidade foi sediada a etapa nacional dos Jogos dos Institutos Federais (JIFs) em setembro de 2014?",
+    "axio": "eventos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1560:estudantes-do-if-sertao-pe-se-destacam-na-etapa-nacional-dos-jogos-dos-institutos-federais&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Natal-RN"
+  },
+  {
+    "ask": "A primeira edição impressa da revista institucional do IF Sertão-PE foi oficialmente lançada em qual ano?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1684:if-sertao-pe-lanca-primeira-edicao-de-revista-institucional&catid=45:noticias&Itemid=68",
+    "response type": "choise",
+    "choice": [
+      "2013",
+      "2014",
+      "2015",
+      "2016"
+    ],
+    "response": "2015"
+  },
+  {
+    "ask": "O projeto 'Leitores do Mês' foi criado com o intuito de premiar os estudantes que mais utilizassem o acervo da biblioteca do campus.",
+    "axio": "curiosidade",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1527:projeto-leitores-do-mes-incentiva-o-uso-da-biblioteca-no-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual foi a agência ou órgão público responsável pelo início do mapeamento e georreferenciamento das terras do campus Salgueiro em 2014?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1609:cartografos-do-incra-comecam-trabalho-de-georreferenciamento-do-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Incra"
+  },
+  {
+    "ask": "Quantos títulos a estudante Tamirys Vieira leu para consagrar-se como a 'Leitora do Ano' na retrospectiva da biblioteca em 2014?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1644:retrospectiva-campus-salgueiro-premia-os-estudantes-que-mais-leram-em-2014-&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "43 títulos"
+  },
+  {
+    "ask": "O projeto 'Sertão Cine Itinerante' realiza a exibição de curtas-metragens para debater temas urgentes como racismo e fake news em escolas públicas.",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14357-sertao-cine-itinerante",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual foi o local escolhido para sediar a II Mostra Sensorial de Tecnologia em Alimentos em fevereiro de 2015?",
+    "axio": "eventos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1677:estudantes-do-campus-salgueiro-realizam-ii-mostra-sensorial-de-tecnologia-em-alimentos&catid=45:noticias&Itemid=68",
+    "response type": "simple",
+    "response": "Anexo da Prefeitura, próximo à Feira Livre"
+  },
+  {
+    "ask": "Qual empresa norte-americana contratou estudantes do campus Salgueiro para um programa de estágio de dois anos em New Jersey no ano de 2015?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1652:estagio-nos-eua-aprovado-em-selecao-aluno-quer-trazer-experiencia-para-crescer-no-brasil&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Amazon Produce Network"
+  },
+  {
+    "ask": "Qual estudante do curso de Sistemas para Internet representou o IFSertãoPE no projeto internacional 'Lapassion em rede' em 2022?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14491-mobilidade-academica",
+    "response type": "unique",
+    "response": "José Pereira de Souza Neto"
+  },
+  {
+    "ask": "O tecnólogo em Alimentos Clemilson Elpídio, ex-aluno do campus Salgueiro, foi aprovado no programa de Doutorado de qual universidade na Espanha?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14300-egressos",
+    "response type": "unique",
+    "response": "Universidad Católica San Antonio de Murcia"
+  },
+  {
+    "ask": "Qual estudante/atleta do campus Salgueiro conquistou a medalha de prata no lançamento de dardo na etapa nacional dos Jogos dos Institutos Federais em Fortaleza?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16232-jogos-dos-institutos-federais",
+    "response type": "unique",
+    "response": "Mateus Gerônimo Matias"
+  },
+  {
+    "ask": "Quem foi a primeira servidora do IFSertãoPE a receber a concessão do Reconhecimento de Saberes e Competências (RSC III) em 2014?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1632:concedido-primeiro-reconhecimento-de-saberes-e-competencias-rsc-no-if-sertao-pe-&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Marta Eugênia Cavalcanti Ramos"
+  },
+  {
+    "ask": "Em qual ano o campus Salgueiro foi oficialmente implantado, trazendo cursos técnicos e superiores para a região do Sertão Central?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14441-aniversario-do-campus",
+    "response type": "choise",
+    "choice": [
+      "2008",
+      "2010",
+      "2012",
+      "2014"
+    ],
+    "response": "2010"
+  },
+  {
+    "ask": "Qual professor ocupava o cargo de Diretor Geral do campus Salgueiro durante as comemorações de aniversário de 12 e 13 anos da instituição (2022/2023)?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15987-celebracao",
+    "response type": "unique",
+    "response": "Josenildo Forte de Brito"
+  },
+  {
+    "ask": "Quem foi o primeiro Diretor Geral do campus Salgueiro no ano de 2015, período em que o campus completou seu 5º aniversário?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1690:seminario-todos-por-pernambuco-reune-governo-e-sociedade-civil-para-debater-politicas-publicas-no-if-sertao-pe&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Amâncio Holanda"
+  },
+  {
+    "ask": "Os primeiros servidores técnico-administrativos aprovados no concurso de 2014 que também eram ex-alunos da primeira turma de 2010 foram Claudinéia Oliveira e Wiharlley Alves.",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1531:if-sertao-pe-recebe-dois-ex-alunos-como-servidores-no-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual decreto histórico assinado pelo presidente Nilo Peçanha em 1909 deu início à Rede Federal de Educação Profissional no Brasil?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1549:rede-federal-celebra-105-anos-de-atividades-em-23-de-setembro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Decreto nº 7.566/1909"
+  },
+  {
+    "ask": "Qual foi o arquiteto japonês cuja obra 'Casa NA' inspirou as dinâmicas lúdicas das crianças na Oficina do Saber Criativo em 2022?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14313-minicursocasana",
+    "response type": "unique",
+    "response": "Sou Fujimoto"
+  },
+  {
+    "ask": "A Organização Mundial da Saúde (OMS) estima que qual porcentagem da população mundial possui altas habilidades?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/08/08/campus-salgueiro-realiza-evento-para-discutir-e-desmistificar-as-altas-habilidades/",
+    "response type": "choise",
+    "choice": [
+      "2%",
+      "5%",
+      "10%",
+      "12%"
+    ],
+    "response": "5%"
+  },
+  {
+    "ask": "Qual foi o tema do documentário nacional exibido no campus Salgueiro em alusão às atividades do Dia Mundial da Alimentação em 2022?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14676-dia-mundial-da-alimentacao",
+    "response type": "unique",
+    "response": "Brasil Orgânico"
+  },
+  {
+    "ask": "Qual é a extensão territorial aproximada pertencente ao campus Salgueiro mapeada pela equipe de engenheiros cartógrafos em 2014?",
+    "axio": "curiosidade",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1609:cartografos-do-incra-comecam-trabalho-de-georreferenciamento-do-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "100 hectares"
+  },
+  {
+    "ask": "A máquina Perkins, exposta no foyer do campus Salgueiro durante as ações do Napne, serve para qual finalidade pedagógica?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13687-dia-nacional-do-braille",
+    "response type": "unique",
+    "response": "Escrever em Braille"
+  },
+  {
+    "ask": "Qual seminário acadêmico focado em design digital, fake news e psicologia das cores foi realizado pelo professor Orlando Silva em fevereiro de 2025?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/02/25/campus-salgueiro-realizara-ii-conecta-design-nos-dias-27-e-28-de-fevereiro/",
+    "response type": "unique",
+    "response": "II Conecta Design"
+  },
+  {
+    "ask": "Qual foi o primeiro campus do IFSertãoPE a receber a visita da Pró-Reitoria de Orçamento para o projeto 'Proad em Fluxo' antes de Salgueiro em 2025?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/02/20/projeto-proad-em-fluxo-aperfeicoa-processos-administrativos-no-campus-salgueiro/",
+    "response type": "choise",
+    "choice": [
+      "Petrolina",
+      "Ouricuri",
+      "Salgueiro foi o terceiro campus",
+      "Floresta"
+    ],
+    "response": "Salgueiro foi o terceiro campus"
+  },
+  {
+    "ask": "Qual cineclube ambiental e artístico exibiu o renomado filme 'O menino que descobriu o vento' no Colégio Dom Malan em 2022?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14475-cineclube",
+    "response type": "unique",
+    "response": "CineClube Tela Quente - Terra Quente"
+  },
+  {
+    "ask": "O evento 'Inclusão e Saúde: um compromisso social' realizado em novembro de 2023 contou com palestras e serviços de atendimento gratuitos abertos ao público.",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16273-saude-e-inclusao",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual torneio esportivo foi organizado em março de 2023 em parceria com a Federação de Basquete de Salgueiro?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15103-competicao-4",
+    "response type": "unique",
+    "response": "I Torneio de Basquete do campus Salgueiro"
+  },
+  {
+    "ask": "Qual iniciativa suplementar suplementa o conteúdo escolar e prepara estudantes do 9º ano para o ingresso no ensino médio técnico?",
+    "axio": "projetos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/08/22/partiuif-brilha-em-activity-pratica-que-aproxima-teoria-da-pratica/",
+    "response type": "unique",
+    "response": "PartiuIF"
+  },
+  {
+    "ask": "Em qual comunidade indígena e distrito o campus Salgueiro inaugurou uma turma e curso de extensão focado em Apicultura no ano de 2023?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15917-curso",
+    "response type": "unique",
+    "response": "Comunidade Indígena Atikum, no Sítio Paula (Conceição das Crioulas)"
+  },
+  {
+    "ask": "O projeto acadêmico coordenado pela professora Adriana Figueiredo e voltado para a Educação Ambiental utiliza qual estrutura viva da fazenda do campus?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14502-trilha-ecologica",
+    "response type": "choise",
+    "choice": [
+      "Cactário e trilha ecológica Moça Branca",
+      "Minhocário Central",
+      "Apiário Didático",
+      "Laboratório de Agrofloresta"
+    ],
+    "response": "Cactário e trilha ecológica Moça Branca"
+  },
+  {
+    "ask": "Qual projeto interinstitucional financiado pelo Ministério da Agricultura (MAPA) introduziu uma Unidade de Referência Tecnológica (URT) na área agrícola do campus em 2022?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13812-agriculture-familiar",
+    "response type": "unique",
+    "response": "AgroIFNordeste"
+  },
+  {
+    "ask": "O subprojeto institucional de incentivo à docência que ampara a realização de feiras e aulas de revisão de Física no sertão central é o PIBID.",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/1539-aluno-do-campus-salgueiro-e-classificado-para-a-2o-fase-da-obfep-2014",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual núcleo especializado do campus Salgueiro organiza as comissões, monitorias e editais voltados ao atendimento a pessoas com necessidades específicas?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/04/15/publicado-o-edital-no-14-2025-para-selecao-de-monitores-de-acessibilidade-do-napne/",
+    "response type": "unique",
+    "response": "NAPNE"
+  },
+  {
+    "ask": "Como se chama o comitê institucional responsável por conduzir e aplicar os questionários anuais de autoavaliação interna exigidos pelo INEP e e-MEC?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16216-cpa",
+    "response type": "choise",
+    "choice": [
+      "CPA (Comissão Própria de Avaliação)",
+      "CONSUP (Conselho Superior)",
+      "Nupe (Núcleo Pedagógico)",
+      "SINAES"
+    ],
+    "response": "CPA (Comissão Própria de Avaliação)"
+  },
+  {
+    "ask": "Qual é o nome do Grêmio Estudantil fundado pelos discentes do Ensino Médio Integrado do campus Salgueiro?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15242-resultado-dos-recursos-2",
+    "response type": "unique",
+    "response": "Grêmio Estudantil Raimundo Carrero"
+  },
+  {
+    "ask": "O bloco de ampliação de infraestrutura entregue no campus Salgueiro foi planejado para viabilizar a abertura de qual novo curso superior em 2024?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16212-sala",
+    "response type": "unique",
+    "response": "Engenharia Civil"
+  },
+  {
+    "ask": "Qual foi o programa assistencial federal que forneceu a distribuição emergencial de tablets em regime de comodato para os alunos durante as atividades remotas?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14242-devolucao",
+    "response type": "unique",
+    "response": "Programa Alunos Conectados"
+  },
+
+  {
+    "ask": "Qual é o nome da aluna egressa da primeira turma de Tecnologia em Alimentos do campus Salgueiro que foi nomeada em concurso do IFPI em 2024?",
+    "axio": "conquistas",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/11/22/aluna-egressa-do-campus-salgueiro-foi-nomeada-em-concurso-do-ifpi/",
+    "response type": "unique",
+    "response": "Débora Tâmara Félix"
+  },
+  {
+    "ask": "Qual estudante do curso técnico em Informática representou o Brasil no Parlamento Juvenil do Mercosul na Argentina em outubro de 2023?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16167-representacao",
+    "response type": "unique",
+    "response": "Maria Valéria Matias Nunes"
+  },
+  {
+    "ask": "As concluintes Andreia Freire e Daiane Ribeiro, do curso de Licenciatura em Física, alcançaram destaque ao serem classificadas em 2º lugar em qual processo da instituição em 2015?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1678:concluintes-do-curso-de-fofisica-sao-classificadas-em-concurso-para-professor-substituto&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Concurso para professor substituto"
+  },
+  {
+    "ask": "Qual estudante do curso de Tecnologia em Alimentos conquistou o título de artilheira nos Jogos Intercampi do IFSertãoPE em 2022?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14820-esporte-2",
+    "response type": "unique",
+    "response": "Kamila Paixão"
+  },
+  {
+    "ask": "Qual aluno do curso de Sistemas para Internet alcançou o 4º lugar no desafio nacional Hackathon promovido pela COMPESA em 2022?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14245-desafio",
+    "response type": "unique",
+    "response": "Elizandro José do Nascimento"
+  },
+  {
+    "ask": "Os professores Yanne Andrade, Marcos Padilha e Thales Ferreira foram os responsáveis por desenhar e planejar a infraestrutura física e elétrica do novo bloco de salas do campus em 2023.",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16212-sala",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "No ano do seu 5º aniversário (2015), o campus Salgueiro oferecia duas graduações superiores: Tecnologia em Alimentos e qual outra licenciatura?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1647:campus-salgueiro-retoma-atividades-letivas-na-proxima-terca-feira-20&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Licenciatura em Física"
+  },
+  {
+    "ask": "Qual professora do campus coordenou o projeto de extensão itinerante 'Mostra Itinerante Pro Cabocó Vê – O Sertão e seus Acervos' apresentado no I CINEAI em 2023?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16293-evento-33",
+    "response type": "unique",
+    "response": "Márcia Farias"
+  },
+  {
+    "ask": "O primeiro espaço físico oficial voltado à cultura maker do campus Salgueiro, orçado em mais de R$1 milhão com apoio do MEC/SETEC, foi o LabLine em 2021.",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16430-centro-de-inovacao",
+    "response type": "verdadeiro ou falso",
+    "response": "falso"
+  },
+  {
+    "ask": "Qual foi a instituição parceira que destinou uma verba de R$ 500 mil para os serviços de terraplanagem e compra de equipamentos do bloco de salas de Engenharia Civil em 2023?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16212-sala",
+    "response type": "unique",
+    "response": "Prefeitura de Salgueiro"
+  },
+  {
+    "ask": "Qual recurso de tecnologia assistiva sonoro e de baixo custo foi construído em PVC pelo estudante Athos Silva Lima no TCC de Informática de 2015?",
+    "axio": "curiosidade",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1674:concluintes-do-curso-tecnico-em-informatica-usam-a-eletronica-para-criar-projetos-inovadores&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Bengala eletrônica para deficientes visuais"
+  },
+  {
+    "ask": "Quais estudantes do curso técnico em Informática conquistaram a medalha de ouro na XXIV Olimpíada Brasileira de Astronomia (OBA) em 2021?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13804-olimpiadas",
+    "response type": "choise",
+    "choice": [
+      "Jaélisson Araújo da Silva e Pedro Emanuel Santana",
+      "Walla Nascimento e Elizandro José",
+      "Daniel Antonio e Magdiel Gomes",
+      "Luís Cícero e Arthur Almeida"
+    ],
+    "response": "Jaélisson Araújo da Silva e Pedro Emanuel Santana"
+  },
+  {
+    "ask": "O campus Salgueiro é conhecido por ser uma casa multicultural que abriga estudantes oriundos de quais povos quilombolas da região?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14817-consciencia-negra",
+    "response type": "simple",
+    "response": "Quilombolas de Cabrobó, Mirandiba e Conceição das Crioulas"
+  },
+  {
+    "ask": "Qual é o nome do instrumento tradicional de escrita em relevo utilizado pelos alunos durante a oficina de Braille realizada no campus em 2014?",
+    "axio": "curiosidade",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1623:segundo-dia-da-semana-de-linguagens-promove-jogos-linguisticos-e-oficina-de-braile-no-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Punção"
+  },
+  {
+    "ask": "A 'Fazenda do campus' serve de suporte prático para as atividades letivas diárias de qual curso técnico regular da instituição?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14502-trilha-ecologica",
+    "response type": "unique",
+    "response": "Agropecuária"
+  },
+  {
+    "ask": "Qual evento focado no universo e na astronomia ofereceu uma experiência imersiva com planetário itinerante aos alunos em março de 2025?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/03/10/museu-de-ciencias-antonio-carneiro-promove-experiencia-imersiva-com-planetario-itinerante/",
+    "response type": "unique",
+    "response": "Museu de Ciências Professor Antônio Carneiro"
+  },
+  {
+    "ask": "Nos dias 03 e 04 de dezembro de 2024, o campus promoveu um Festival focado em oficinas e exposições de Literatura, Dança e Circo. Qual era o nome do evento?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/11/28/campus-salgueiro-do-ifsertaope-promove-festival-de-arte/",
+    "response type": "unique",
+    "response": "Festival de Arte"
+  },
+  {
+    "ask": "Qual festival multicultural de tecnologia e economia criativa em Recife contou com a participação das caravanas de Sistemas para Internet em outubro de 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16164-festival",
+    "response type": "choise",
+    "choice": [
+      "Expotec",
+      "REC'n'Play",
+      "Startup Weekend",
+      "Telebrasil Innovation"
+    ],
+    "response": "REC'n'Play"
+  },
+  {
+    "ask": "O movimento de conscientização e ciclo de palestras 'Setembro Surdo' foi planejado e organizado em setembro de 2023 por qual professora de Libras do campus?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16052-setembro-surdo",
+    "response type": "unique",
+    "response": "Patrícia Lourenço"
+  },
+  {
+    "ask": "Qual torcida escolar organizada enfrentou o campus Salgueiro na categoria Sub-20 do I Torneio de Basquete em 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15146-basquete",
+    "response type": "unique",
+    "response": "Escola Carlos Pena Filho"
+  },
+  {
+    "ask": "O projeto interinstitucional 'Parceria Academia Empresa' focado em sustentabilidade na construção civil pesquisa a reciclagem de quais materiais em 2025?",
+    "axio": "projetos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/04/25/campus-salgueiro-abre-selecao-para-bolsistas-em-projeto-de-extensao-tecnologica-com-foco-em-sustentabilidade-na-construcao-civil/",
+    "response type": "simple",
+    "response": "Resíduos pré-moldados de concretos com vistas à produção reversa"
+  },
+  {
+    "ask": "Qual projeto interidiciplinar estruturado em 2014 pela professora Elisabete Agra promoveu apresentações de teatro e debates de gênero sob o lema 'Ler: compreender o mundo'?",
+    "axio": "projetos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1629:projeto-interdisciplinar-promove-debate-sobre-cultura-e-violencia-de-genero-no-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Ler: compreender o mundo"
+  },
+  {
+    "ask": "A primeira oficina lúdica realizada pela professora Yanne Andrade no projeto 'Oficina do Saber Criativo' em 2022 atendeu crianças de 3 a 5 anos com qual temática?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14344-oficina-do-saber-criativo",
+    "response type": "unique",
+    "response": "Projeto Casa NA"
+  },
+  {
+    "ask": "Qual projeto de extensão inovador idealizado por professores de Física em 2014 utiliza canos de PVC e gesso para produzir materiais ecológicos com resíduos de demolição?",
+    "axio": "projetos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1635:projeto-do-campus-salgueiro-para-desenvolver-blocos-sustentaveis-de-construcao-e-aprovado-no-cnpq&catid=45:noticias&Itemid=68",
+    "response type": "choise",
+    "choice": [
+      "Desenvolvimento de blocos sustentáveis de construção",
+      "Projeto Solo & Vida",
+      "Plataforma Deméter",
+      "Oficina do Saber Criativo"
+    ],
+    "response": "Desenvolvimento de blocos sustentáveis de construção"
+  },
+  {
+    "ask": "O projeto social de extensão 'Agentes Literários: disseminando a poesia para autorreflexão' atendeu crianças e jovens de qual ONG comunitária de Salgueiro em 2014?",
+    "axio": "projetos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1604:um-dia-no-campus-projeto-de-extensao-traz-alunos-do-proac-ao-if-sertao-pe-em-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "PROAC (Projeto Comunitário de Atendimento à Criança e ao Adolescente)"
+  },
+  {
+    "ask": "Como se chama o sistema administrativo unificado do IFSertãoPE utilizado pelos servidores de TI para gerenciar chamados e solicitações gerais de suporte técnico lançado em 2014?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1589:dgti-lanca-central-de-servicos-de-tecnologia-da-informacao&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Central de Serviços de Tecnologia da Informação"
+  },
+  {
+    "ask": "Qual comitê de assistência discente gerencia a concessão monetária anual de auxílio-transporte, alimentação e creche para os alunos vulneráveis do campus?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/03/10/campus-salgueiro-divulga-calendario-de-pagamentos-de-auxilios-estudantis/",
+    "response type": "unique",
+    "response": "CPAE (Coordenação de Políticas de Assistência Estudantil)"
+  },
+  {
+    "ask": "O programa nacional PNAE, gerenciado institucionalmente pelo campus Salgueiro, tem como finalidade a distribuição interna de quais benefícios para os estudantes?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13480-kispnae2022",
+    "response type": "choise",
+    "choice": [
+      "Kits alimentares / cestas nutricionais",
+      "Auxílio Financeiro Moradia",
+      "Isenção de passagens de ônibus",
+      "Uniformes escolares gratuitos"
+    ],
+    "response": "Kits alimentares / cestas nutricionais"
+  },
+  {
+    "ask": "Qual é o nome do congresso e encontro regional anual voltado a capacitar professores da rede pública promovido pela Diretoria de Ensino do campus Salgueiro desde 2014?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1591:campus-salgueiro-abre-inscricoes-para-capacitacao-de-professores-da-educacao-basica&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "EDUBASC (Encontro da Educação Básica do Sertão Central)"
+  },
+  {
+    "ask": "Em 2014, o campus Salgueiro promoveu um processo seletivo fixo para a concessão de espaços comerciais internos. Qual serviço seria explorado?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1564:divulgada-segunda-retificacao-do-edital-de-concorrencia-no-012014&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Serviços de cantinas"
+  },{
+    "ask": "Qual estudante do 4º ano do curso de Informática conquistou a medalha de ouro na XXIV Olimpíada Brasileira de Astronomia (OBA) em 2021 junto com Jaélisson Araújo?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13804-olimpiadas",
+    "response type": "unique",
+    "response": "Pedro Emanuel Santana"
+  },
+  {
+    "ask": "O estudante Mateus Gerônimo Matias destacou-se na etapa Nordeste dos Jogos dos Institutos Federais antes de ir para a etapa nacional. Qual colocação ele obteve no Nordeste?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16232-jogos-dos-institutos-federais",
+    "response type": "unique",
+    "response": "1º lugar"
+  },
+  {
+    "ask": "Qual estudante do campus Salgueiro foi selecionada como monitora do projeto 'Ler: compreender o mundo' em 2014 e apresentou performances sobre violência de gênero?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1629:projeto-interdisciplinar-promove-debate-sobre-cultura-e-violencia-de-genero-no-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Helga Morais"
+  },
+  {
+    "ask": "A estudante Lucia Maria Linhares consagrou-se como o grande destaque de qual modalidade esportiva na etapa nacional dos Jogos dos Institutos Federais (JIFs) em 2014?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1560:estudantes-do-if-sertao-pe-se-destacam-na-etapa-nacional-dos-jogos-dos-institutos-federais&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Atletismo"
+  },
+  {
+    "ask": "Qual estudante do campus Salgueiro teve o seu projeto de 'Glossário de Tecnologia em Alimentos – Libras' laureado em 2º lugar na 9ª Jince?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/1523:aluno-do-campus-salgueiro-e-laureado-com-projeto-sobre-glossario-em-libras-na-9o-jince&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Cícero Carlos Vidal"
+  },
+  {
+    "ask": "Em setembro de 2025, o campus Salgueiro do IFSertãoPE celebrou qual marco histórico de aniversário de suas atividades na região?",
+    "axio": "historia",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/09/08/campus-salgueiro-realizara-ii-festival-de-arte-e-cultura/",
+    "response type": "choise",
+    "choice": [
+      "5 anos",
+      "10 anos",
+      "15 anos",
+      "20 anos"
+    ],
+    "response": "15 anos"
+  },
+  {
+    "ask": "Quem ocupava o cargo de Reitora pro tempore do IFSertãoPE durante as inaugurações e celebrações de 12 e 13 anos do campus Salgueiro?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14520-12-anos",
+    "response type": "unique",
+    "response": "Leopoldina Veras"
+  },
+  {
+    "ask": "Qual professor e coordenador do curso de Licenciatura em Física participou da colação de grau extemporânea do primeiro formado do campus em 2015?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1662:no-ano-do-seu-5o-aniversario-campus-salgueiro-forma-primeiro-aluno-de-graduacao&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Newton Pionório"
+  },
+  {
+    "ask": "A primeira edição da maratona de negócios 'HackaSertão Salgueiro' e a consolidação da Incubadora Maker ocorreram originalmente no ano de 2022.",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16430-centro-de-inovacao",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual professor de Física uniu-se à professora Leila Soares para criar um projeto interdisciplinar focando em maquetes de edifícios e Óptica Geométrica em 2014?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1410:campus-salgueiro-divulga-a-1o-lista-de-remanejados-do-processo-seletivo-20141&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Pablo Sampaio"
+  },
+  {
+    "ask": "Qual é a carga horária total do curso de conscientização à prevenção da violência sexual infanto-juvenil lançado pelo campus em agosto de 2024?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/08/20/campus-salgueiro-lanca-edital-para-curso-fic-sobre-prevencao-a-violencia-sexual-infanto-juvenil/",
+    "response type": "unique",
+    "response": "260h"
+  },
+  {
+    "ask": "Quantas vagas remanescentes foram ofertadas para o Curso de Iniciação ao Xadrez no campus Salgueiro em julho de 2025?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/07/03/campus-salgueiro-abre-inscricoes-para-curso-de-xadrez/",
+    "response type": "choise",
+    "choice": [
+      "10 vagas",
+      "13 vagas",
+      "15 vagas",
+      "20 vagas"
+    ],
+    "response": "13 vagas"
+  },
+  {
+    "ask": "A primeira gincana interna realizada em comemoração ao aniversário de 12 anos do campus Salgueiro aconteceu na Estação do Forró.",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14520-12-anos",
+    "response type": "verdadeiro ou falso",
+    "response": "falso"
+  },
+  {
+    "ask": "Para comemorar o Dia Estadual da Educação Ambiental em 2024, o campus Salgueiro recebeu alunos de qual escola municipal para visitar a trilha Moça Branca?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/08/08/campus-salgueiro-realizou-acoes-em-comemoracao-ao-dia-estadual-da-educacao-ambiental/",
+    "response type": "unique",
+    "response": "Escola Municipal Dr. Severino Alves de Sá"
+  },
+  {
+    "ask": "Quem foi a nutricionista do campus Salgueiro responsável por coordenar debates sobre alimentação saudável e alimentos orgânicos no Dia Mundial da Alimentação em 2022?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14676-dia-mundial-da-alimentacao",
+    "response type": "unique",
+    "response": "Kelly Gondim"
+  },
+  {
+    "ask": "O seminário de comunicação e interfaces virtuais 'II Conecta Design', ocorrido em fevereiro de 2025, foi idealizado e coordenado por qual professor?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/02/25/campus-salgueiro-realizara-ii-conecta-design-nos-dias-27-e-28-de-fevereiro/",
+    "response type": "unique",
+    "response": "Orlando Silva"
+  },
+  {
+    "ask": "Qual feira regional e exposição agropecuária contou com a 'Mostra de Tecnologia em Alimentos: Pirâmide Alimentar' desenvolvida pelos estudantes em setembro de 2024?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/09/18/curso-de-tecnologia-de-alimentos-do-campus-salgueiro-do-ifsertaope-apresentou-mostra-de-tecnologia-em-alimentos-piramide-alimentar-e-materias-primas-na-exposerrita/",
+    "response type": "unique",
+    "response": "ExpoSerrita 2024"
+  },
+  {
+    "ask": "Em qual cidade brasileira ocorreu a exposição nacional em que alunos do campus Salgueiro apresentaram seis projetos tecnológicos no estande do MEC em outubro de 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16156-snct-3",
+    "response type": "choise",
+    "choice": [
+      "Recife",
+      "Rio de Janeiro",
+      "Brasília",
+      "Fortaleza"
+    ],
+    "response": "Brasília"
+  },
+  {
+    "ask": "Qual ator social e líder comunitário indígena discursou ressaltando o anseio coletivo pelo início do curso de Apicultura no Sítio Paula em 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15917-curso",
+    "response type": "unique",
+    "response": "Pastor Espedito"
+  },
+  {
+    "ask": "Qual foi a palestra magna de abertura que inaugurou os ciclos de estudos técnicos e científicos da SNCT 2023 no campus Salgueiro?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16246-snct-2",
+    "response type": "unique",
+    "response": "Ciência Básica para o Desenvolvimento Sustentável"
+  },
+  {
+    "ask": "Qual projeto de base tecnológica focou na criação de um kit de robótica modular e foi apresentado pelo aluno Kaik Bruno na SNCT em Brasília?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16156-snct-3",
+    "response type": "unique",
+    "response": "ROBOX"
+  },
+  {
+    "ask": "O projeto voltado para o agronegócio e inclusão digital na agricultura familiar apresentado pela aluna Maria Valéria Matias Nunes em Brasília chamava-se ConectaAgro.",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16156-snct-3",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual projeto de extensão ensinou noções de panificação e confeitaria profissional para 60 mulheres vulneráveis no Centro Pastoral Joaquim Guanella em Cedro (PE)?",
+    "axio": "projetos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1584:projeto-desenvolvido-por-alunas-do-campus-salgueiro-vai-capacitar-mulheres-de-baixa-renda-em-cedro-pe&catid=45:noticias&Itemid=68",
+    "response type": "choise",
+    "choice": [
+      "Curso de confecção de bolos, doces e salgados",
+      "Programa Mulheres Mil - Ciclo 3",
+      "Do campo à mesa",
+      "Oficina do Saber Criativo"
+    ],
+    "response": "Curso de confecção de bolos, doces e salgados"
+  },
+  {
+    "ask": "Qual é o nome da empresa júnior ou agência digital parceira onde alunos de graduação atuaram remotamente como bolsistas no projeto de Soluções Web em 2022?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14710-inscricoes-abertas-3",
+    "response type": "unique",
+    "response": "Re9 Agência"
+  },
+  {
+    "ask": "O projeto educacional 'Navegando nas Redes Sociais e Digitais da Educação Ambiental' promoveu oficinas sustentáveis de teatro de mamulengo em qual cidade?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14145-meio-ambiente",
+    "response type": "unique",
+    "response": "Serrita"
+  },
+  {
+    "ask": "Como se chama o comitê ou subcomissão local encarregada de estruturar coletivamente os eixos pedagógicos do Projeto Político Pedagógico (PPP) do campus?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1475:projeto-politico-pedagogico-do-if-sertao-pe-subcomissao-do-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Subcomissão do Campus Salgueiro"
+  },
+  {
+    "ask": "Qual sistema governamental unificado do Governo Federal substituiu gradativamente o Siape para a gestão de pessoas e lançamento de folhas de pagamento em 2014?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1535:mpog-emite-comunicado-sobre-o-novo-sistema-de-gestao-de-pessoas&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Sigepe"
+  },
+  {
+    "ask": "Qual órgão central do Ministério da Educação reabriu prazos de inscrição para os cursos técnicos à distância após problemas decorrentes da greve dos bancários em 2014?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1572:if-sertao-pe-reabre-inscricoes-para-os-cursos-tecnicos-ate-domingo-19&catid=45:noticias&Itemid=68",
+    "response type": "choise",
+    "choice": [
+      "IFSertãoPE / Comissão Central",
+      "SETEC",
+      "CAPES",
+      "INEP"
+    ],
+    "response": "IFSertãoPE / Comissão Central"
+  },
+  {
+    "ask": "Qual documento legal emitido pela Diretoria Geral em janeiro de 2022 oficializou a suspensão pontual de aulas presenciais devido à alta de casos de Covid-19?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13357-atividades-remotas",
+    "response type": "unique",
+    "response": "Comunicado de suspensão das atividades presenciais"
+  },
+  {
+    "ask": "O questionário eletrônico obrigatório cujo preenchimento confere ao universitário habilitado a consulta ao local de prova do ENADE é o Questionário do Estudante.",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1599:enade-2014-candidatos-devem-responder-a-questionario-ate-23-de-novembro-&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },{
+    "ask": "Qual aluna do curso técnico de Informática e bolsista do GEPET apresentou uma pesquisa sobre os impactos da pandemia na aprendizagem durante o CONEDU em Maceió?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14646-conedu",
+    "response type": "unique",
+    "response": "Luís Eduardo Soares Cruz"
+  },
+  {
+    "ask": "Qual estudante do curso de Tecnologia em Alimentos foi aprovada no Mestrado Acadêmico em Produção Vegetal da Univasf no ano de 2022?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14504-egressos-2",
+    "response type": "unique",
+    "response": "Vanúsia Medeiros"
+  },
+  {
+    "ask": "Os alunos Jaélisson Araújo da Silva e Pedro Emanuel Santana, que conquistaram medalha de ouro na OBA em 2021, eram estudantes de qual curso técnico integrado?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13804-olimpiadas",
+    "response type": "unique",
+    "response": "Informática"
+  },
+  {
+    "ask": "Qual aluna do curso técnico em Edificações foi classificada como a 'Leitora do Ano' em 2014 após ler 43 livros?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1644:retrospectiva-campus-salgueiro-premia-os-estudantes-que-mais-leram-em-2014-&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Tamirys Vieira"
+  },
+  {
+    "ask": "Quem foi o orador das turmas formandas de Licenciatura em Física na cerimônia de colação de grau realizada em novembro de 2022?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14720-formatura-3",
+    "response type": "unique",
+    "response": "Robson Bezerra"
+  },
+  {
+    "ask": "Em qual ano o IFSertãoPE lançou oficialmente o seu novo portal virtual unificado que integrou a Reitoria e todos os campi em uma única plataforma?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1696:if-sertao-pe-lanca-novo-site-institucional&catid=45:noticias&Itemid=68",
+    "response type": "choise",
+    "choice": [
+      "2012",
+      "2014",
+      "2015",
+      "2016"
+    ],
+    "response": "2015"
+  },
+  {
+    "ask": "Qual professor ocupava a chefia do Departamento de Ensino do campus Salgueiro antes de ser eleito Diretor-Geral para a gestão 2024-2028?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16317-eleicoes-7",
+    "response type": "unique",
+    "response": "Rônero Domingos"
+  },
+  {
+    "ask": "Quem presidiu a comissão institucional responsável por elaborar o regulamento e o software para a implantação do RSC no IFSertãoPE em 2014?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1632:concedido-primeiro-reconhecimento-de-saberes-e-competencias-rsc-no-if-sertao-pe-&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Marta Eugênia Cavalcanti Ramos"
+  },
+  {
+    "ask": "O campus Salgueiro contou com a visita e os serviços de engenheiros cartógrafos do Incra para demarcar sua propriedade no ano de 2014.",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1609:cartografos-do-incra-comecam-trabalho-de-georreferenciamento-do-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual servidor mediou o encontro inaugural do Clube do Leitor focado em aproximar a comunidade do universo literário em fevereiro de 2015?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1672:clube-do-leitor-reune-a-comunidade-academica-do-campus-salgueiro-para-debater-literatura&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Cícero Jailton Souza"
+  },
+  {
+    "ask": "Quantas vagas foram ofertadas no Curso de Formação Continuada 'Basic English' direcionado à comunidade externa em junho de 2025?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/06/17/campus-salgueiro-abre-inscricoes-para-curso-fic-basic-english/",
+    "response type": "unique",
+    "response": "20 vagas"
+  },
+  {
+    "ask": "Qual é a idade mínima exigida para as mulheres interessadas em participar dos cursos de capacitação profissional do programa Mulheres Mil no edital de 2025?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/04/03/campus-salgueiro-do-ifsertaope-disponibilizara-120-vagas-em-cursos-de-capacitacao-profissional-voltado-para-mulheres/",
+    "response type": "choise",
+    "choice": [
+      "14 anos",
+      "16 anos",
+      "18 anos",
+      "21 anos"
+    ],
+    "response": "16 anos"
+  },
+  {
+    "ask": "O primeiro e único aluno cego a concluir o curso superior de Tecnologia em Sistemas para Internet no campus Salgueiro foi Walla Nascimento de Sousa em 2024.",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/10/02/walla-nascimento-e-o-primeiro-aluno-cego-a-concluir-o-curso-de-tecnologia-em-sistemas-para-internet-no-campus-salgueiro/",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "O campus Salgueiro firmou uma parceria para que as aulas teóricas e práticas do curso FIC de Prevenção à Violência Sexual acontecessem nas dependências de qual estabelecimento comercial?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/08/28/campus-salgueiro-prorroga-ate-02-09-as-inscricoes-do-curso-de-conscientizacao-a-prevencao-da-violencia-sexual-infanto-juvenil/",
+    "response type": "unique",
+    "response": "Salgueiro Shopping"
+  },
+  {
+    "ask": "Quem foi a servidora e intérprete de Libras que abordou as TDICS no processo de tradução durante o movimento Setembro Surdo de 2023?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16052-setembro-surdo",
+    "response type": "unique",
+    "response": "Aline Araújo"
+  },
+  {
+    "ask": "Nos dias 23 e 24 de setembro de 2025, o campus Salgueiro programou oficinas e apresentações abertas à comunidade em comemoração aos seus 15 anos. Qual é o nome do evento?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/09/08/campus-salgueiro-realizara-ii-festival-de-arte-e-cultura/",
+    "response type": "unique",
+    "response": "II Festival de Arte e Cultura"
+  },
+  {
+    "ask": "Qual foi o tema do concurso cultural e ambiental organizado pela Coordenação de Pesquisa do campus Salgueiro em março de 2015?",
+    "axio": "eventos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1692:campus-salgueiro-realiza-concurso-cultural-com-o-tema-agua-e-desenvolvimento-sustentavel&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Água e Desenvolvimento Sustentável"
+  },
+  {
+    "ask": "Qual congresso internacional realizado em Juazeiro-BA reuniu uma comitiva de alunos de Salgueiro para apresentar o projeto 'Solo & Vida' em novembro de 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16293-evento-33",
+    "response type": "choise",
+    "choice": [
+      "CONEDU",
+      "I CINEAI (I Congresso Internacional de Educação Ambiental Interdisciplinar)",
+      "Simpósio Nacional de Física",
+      "Bienal do Livro do Sertão"
+    ],
+    "response": "I CINEAI (I Congresso Internacional de Educação Ambiental Interdisciplinar)"
+  },
+  {
+    "ask": "A gincana festiva de comemoração de aniversário do campus Salgueiro dividiu os servidores e alunos em quatro equipes de cores diferentes.",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15987-celebracao",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual torcida e time de basquete consagrou-se como o grande campeão da categoria Adulto no I Torneio de Basquete de Salgueiro em 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15146-basquete",
+    "response type": "unique",
+    "response": "Equipe Cohab"
+  },
+  {
+    "ask": "O programa supplementar 'Mulheres Mil – Ciclo 3' promoveu a oferta de capacitação profissional em quais eixos e cursos no município de Serrita?",
+    "axio": "projetos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/09/02/ifsertaope-campus-salgueiro-segue-transformando-vidas-com-o-programa-mulheres-mil-ciclo-3/",
+    "response type": "simple",
+    "response": "Manicure e Pedicure, Padeira, Salgadeira e Costureira de Máquina Reta e Overloque"
+  },
+  {
+    "ask": "Qual projeto de pesquisa focado na redução da evasão escolar foi desenvolvido pelo campus Salgueiro em parceria com a UFG em 2024?",
+    "axio": "projetos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/03/25/campus-salgueiro-inscreve-para-selecao-de-estudantes-dos-cursos-tecnico-em-edificacoes-e-licenciatura-em-fisica-para-atuar-em-projeto-de-pesquisa-sobre-reducao-da-evasao-escolar/",
+    "response type": "unique",
+    "response": "Sistema inteligente para auxílio de ações para redução da evasão escolar na educação profissional e tecnológica"
+  },
+  {
+    "ask": "A iniciativa educacional e maker 'Academia Maker' certificou quantos estudantes nos cursos de iniciação à robótica aplicada na rede pública em 2022?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14857-academia-maker",
+    "response type": "unique",
+    "response": "340 estudantes"
+  },
+  {
+    "ask": "Qual subprojeto interdisciplinar e tecnológico focado em reciclagem mineral coletou e analisou calcário calcítico na Microrregião do Pajeú em 2024?",
+    "axio": "projetos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/03/28/divulgado-resultado-das-inscricoes-para-selecao-de-bolsistas-pelo-edital-07-2024/",
+    "response type": "choise",
+    "choice": [
+      "Caracterização do estéril de mineração de calcário calcítico",
+      "Projeto Solo & Vida",
+      "Plataforma Deméter",
+      "Parceria Academia Empresa"
+    ],
+    "response": "Caracterização do estéril de mineração de calcário calcítico"
+  },
+  {
+    "ask": "O projeto social de extensão 'Teatro de Mamulengo' com materiais reciclados e artesanato sustentável foi executado por qual artista e servidor do campus em 2022?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14145-meio-ambiente",
+    "response type": "unique",
+    "response": "Fábio Marins"
+  },
+  {
+    "ask": "Qual é a sigla oficial do comitê estudantil que coordenou as eleições de novos representantes discentes para gerenciar as demandas estudantis do campus Salgueiro em 2023?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15242-resultado-dos-recursos-2",
+    "response type": "unique",
+    "response": "Grêmio Estudantil"
+  },
+  {
+    "ask": "Qual comissão interna reuniu-se com os professores João Neto e Josenildo Forte em março de 2023 para debater as novas regras e estratégias de publicidade do campus?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15105-comissao",
+    "response type": "unique",
+    "response": "Comissão de Divulgação"
+  },
+  {
+    "ask": "O programa assistencial 'Pé de Meia' gerou convocações institucionais em 2024 para que os alunos de nível médio resolvessem quais pendências?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/04/26/estudantes-devem-update-dados-para-recebimento-do-pe-de-meia/",
+    "response type": "choise",
+    "choice": [
+      "Pendência documental / atualização de dados no formulário",
+      "Falta de frequência nas aulas de Matemática",
+      "Pagamento de taxas atrasadas da biblioteca",
+      "Falta de assinatura no termo do Bolsa Atleta"
+    ],
+    "response": "Pendência documental / atualização de dados no formulário"
+  },
+  {
+    "ask": "Qual sistema corporativo acadêmico e administrativo do IFSertãoPE recebeu a obrigatoriedade de preenchimento dos dados de caracterização socioeconômica em 2025?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/08/11/atualizacao-obrigatoria-preenchimento-dos-dados-socioeconomicos-no-suap/",
+    "response type": "unique",
+    "response": "SUAP"
+  },
+  {
+    "ask": "A primeira eleição formal para a escolha de membros representantes discentes e docentes da CPA local ocorreu no período de 2014 a 2018.",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1638:campus-salgueiro-realiza-eleicao-para-representantes-da-cpa&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },{
+    "ask": "Qual aluno do 4º ano do curso Médio Integrado de Informática atuou como bolsista do projeto de extensão 'Basquete Federal' no ano de 2022?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15103-competicao-4",
+    "response type": "unique",
+    "response": "Everton Diogo"
+  },
+  {
+    "ask": "Qual estudante da graduação em Sistemas para Internet assumiu a bolsa do projeto 'Basquete Federal' no ciclo de atividades de 2023?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15103-competicao-4",
+    "response type": "unique",
+    "response": "André Barros"
+  },
+  {
+    "ask": "O estudante de Tecnologia em Alimentos Orlando Vidal recebeu destaque na SNCT de 2014 ao apresentar um projeto de qual natureza inclusiva?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1576:palestra-sobre-transgenicos-marca-abertura-da-snct-no-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Glossário Técnico em Libras"
+  },
+  {
+    "ask": "Qual estudante do curso de Edificações atuou como voluntário e ajudou a demonstrar a fabricação prática de sabão ecológico na SNCT nacional?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1574:if-sertao-pe-apresenta-na-snct-projetos-com-foco-na-sustentabilidade-e-controle-de-bens-patrimoniais&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "José Thiago de Jesus"
+  },
+  {
+    "ask": "Os estudantes Antonio Alef de Brito, Francisco Aleixo e Magdiel Joctã receberam menção honrosa nacional na 10ª edição de qual olimpíada científica em 2014?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1669:estudantes-do-campus-salgueiro-conquistam-mencao-honrosa-na-obmep-2014&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas)"
+  },
+  {
+    "ask": "Em qual ano foi realizada a primeira edição histórica da Olimpíada Salgueirense de Informática (OSI) voltada a testar conhecimentos técnicos dos alunos do campus?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1458:campus-salgueiro-comemora-sucesso-da-i-olimpiada-salgueirense-de-informatica-osi&catid=45:noticias&Itemid=68",
+    "response type": "choise",
+    "choice": [
+      "2012",
+      "2014",
+      "2016",
+      "2018"
+    ],
+    "response": "2014"
+  },
+  {
+    "ask": "Quem era o Reitor institucional pro tempore do IFSertãoPE encarregado de assinar as primeiras concessões de portarias do RSC aos docentes em dezembro de 2014?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1632:concedido-primeiro-reconhecimento-de-saberes-e-competencias-rsc-no-if-sertao-pe-&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Ivaldo José da Silva"
+  },
+  {
+    "ask": "Qual arquiteta e professora do campus idealizou e coordenou as oficinas infantis de maquetes no projeto de extensão 'Oficina do Saber Criativo' em 2022?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14344-oficina-do-saber-criativo",
+    "response type": "unique",
+    "response": "Yanne Andrade"
+  },
+  {
+    "ask": "A implantação original da infraestrutura do LabMaker do campus Salgueiro contou com recursos iniciais obtidos por meio de edital aprovado no ano de 2021.",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14520-12-anos",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual bibliotecária do campus Salgueiro atuou como a mente idealizadora por trás da estruturação do Clube do Leitor e da I Semana da Biblioteca em 2014?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1672:clube-do-leitor-reune-a-comunidade-academica-do-campus-salgueiro-para-debater-literatura&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Naira Michele Alves Pereira"
+  },
+  {
+    "ask": "Qual é a duração máxima estipulada em meses para os projetos de pesquisa científica cooperativos financiados pelo CNPq/Setec no edital de 2014?",
+    "axio": "curiosidade",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1634:if-sertao-pe-aprova-seis-projetos-em-chamada-publica-do-cnpqsetec&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "24 meses"
+  },
+  {
+    "ask": "A primeira maratona de inovação HackaSertão realizada nas dependências físicas do campus Salgueiro em 2022 teve a duração total de quantas horas?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14776-maratona",
+    "response type": "choise",
+    "choice": [
+      "24 horas",
+      "36 horas",
+      "48 horas",
+      "Três dias de evento"
+    ],
+    "response": "Três dias de evento"
+  },
+  {
+    "ask": "O campus Salgueiro do IFSertãoPE conquistou um total expressivo de 12 troféus gerais durante as competições esportivas dos Jogos Intercampi de 2022.",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14820-esporte-2",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Quantas barras de sabão artesanal de corte o projeto de óleo residual de Salgueiro produzia semanalmente para doação a creches e asilos em 2014?",
+    "axio": "curiosidade",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1574:if-sertao-pe-apresenta-na-snct-projetos-com-foco-na-sustentabilidade-e-controle-de-bens-patrimoniais&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "120 barras"
+  },
+  {
+    "ask": "Qual arquétipo e personagem histórico literário deu nome ao projeto de extensão 'Mostra Itinerante Pro Cabocó Vê' coordenado pela professora Márcia Farias em 2023?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16293-evento-33",
+    "response type": "unique",
+    "response": "Caboclo"
+  },
+  {
+    "ask": "Qual foi o seminário ou fórum discente preparatório conduzido pela diretora Vilani Cavalcante em outubro de 2022 abordando a dignidade menstrual no campus?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14645-pre-forum-discente",
+    "response type": "unique",
+    "response": "Pré-fórum discente da Assistência Estudantil"
+  },
+  {
+    "ask": "Qual importante e renomado pesquisador e ex-secretário estadual de Ciência de Pernambuco ministrou a palestra de encerramento da SNCT local em outubro de 2014?",
+    "axio": "eventos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1578:snct-oficinas-que-ensinam-a-produzir-massas-e-sabonetes-atraem-alunos-do-if-sertao-pe-e-regiao&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Dr. Anderson Gomes"
+  },
+  {
+    "ask": "Em qual espaço cultural público municipal de Salgueiro foi montada a mostra de projetos de aniversário de 12 anos da instituição em setembro de 2022?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14520-12-anos",
+    "response type": "choise",
+    "choice": [
+      "Estação do Forró",
+      "Casa do Sanfoneiro",
+      "Salgueiro Shopping",
+      "Praça da Academia das Cidades"
+    ],
+    "response": "Estação do Forró"
+  },
+  {
+    "ask": "A solenidade festiva noturna de comemoração de encerramento do aniversário de 12 anos do campus Salgueiro em 2022 foi abrigada em qual espaço da cidade?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14520-12-anos",
+    "response type": "unique",
+    "response": "Casa do Sanfoneiro"
+  },
+  {
+    "ask": "Qual conferencista e especialista em estomaterapia palestrou no III Encontro de Enfermagem e Serviço Social transmitido online pelo campus em 2022?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14765-evento-25",
+    "response type": "unique",
+    "response": "Fernanda Maria Silva"
+  },
+  {
+    "ask": "Qual é o nome da ferramenta e plataforma inteligente focada no monitoramento de água por rádio frequência que virou startup no LabMaker?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16156-snct-3",
+    "response type": "unique",
+    "response": "Plataforma Deméter"
+  },
+  {
+    "ask": "O projeto focado no tratamento e reaproveitamento ecológico de água residual doméstica estruturado na SNCT de 2014 chamava-se 'Preparação de Sabão de Corte a partir de Óleo Residual'.",
+    "axio": "projetos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1574:if-sertao-pe-apresenta-na-snct-projetos-com-foco-na-sustentabilidade-e-controle-de-bens-patrimoniais&catid=45:noticias&Itemid=68",
+    "true or false": "verdadeiro",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual projeto de capacitação agropecuária e extensão continuada atendeu produtores locais sob a coordenação da professora Maely Saraiva em agosto de 2022?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14377-docampoamesa",
+    "response type": "choise",
+    "choice": [
+      "Do campo à mesa: boas práticas de manipulação e rotulagem de alimentos",
+      "AgroIFNordeste",
+      "Solo & Vida",
+      "Manejo Sanitário de Caprinos e Ovinos"
+    ],
+    "response": "Do campo à mesa: boas práticas de manipulação e rotulagem de alimentos"
+  },
+  {
+    "ask": "Qual subprojeto de robótica de nível básico foi ministrado nas dependências do Salgueiro Shopping em parceria com a Câmara Municipal em 2023?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16001-certificacao-3",
+    "response type": "unique",
+    "response": "Exploradores da Robótica"
+  },
+  {
+    "ask": "O projeto assistencial de extensão remota 'SaúLibras: diálogos de vozes silenciadas' focado na saúde de pessoas surdas transmitia seus encontros por meio de qual plataforma?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16213-libras-3",
+    "response type": "unique",
+    "response": "Google Meet"
+  },
+  {
+    "ask": "Como se chama o setor institucional responsável pelo atendimento psicossocial e pela gestão direta de auxílios financeiros estudantis no campus Salgueiro?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13522-recepcaonovatos",
+    "response type": "unique",
+    "response": "Setor de Assistência Estudantil"
+  },
+  {
+    "ask": "Qual é a sigla oficial do órgão colegiado local encarregado de votar o projeto pedagógico e as diretrizes curriculares do novo curso de Engenharia Civil antes do Conselho Superior?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15138-resultado-final-10",
+    "response type": "unique",
+    "response": "Conselho de Campus"
+  },
+  {
+    "ask": "Qual portaria e normativo ministerial emitido pelo Governo Federal regulamentou os horários de expedientes dos servidores públicos durante os jogos da Copa do Mundo de 2014?",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1473:if-sertao-pe-encerrara-expediente-as-12h30-em-dias-de-jogos-da-selecao-brasileira-na-copa-do-mundo-2014&catid=45:noticias&Itemid=68",
+    "response type": "choise",
+    "choice": [
+      "Portaria nº 113",
+      "Orientação Normativa nº 04",
+      "Resolução nº 41/2015",
+      "Decreto nº 5.563"
+    ],
+    "response": "Portaria nº 113"
+  },
+  {
+    "ask": "Qual documento legal emitido pela CPA do IFSertãoPE formaliza as análises de infraestrutura e satisfação enviadas anualmente ao Ministério da Educação?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16216-cpa",
+    "response type": "unique",
+    "response": "Relatório de autoavaliação institucional"
+  },
+  {
+    "ask": "O regulamento interno unificado que rege os processos de redistribuição, cedência e remoção interna de servidores do IFSertãoPE foi instituído pela Portaria Normativa nº 18.",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1459:dgp-lanca-edital-de-processo-seletivo-para-remocao-interna-de-tecnicos-administrativos&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },{
+    "ask": "Qual estudante do curso de Sistemas para Internet integrou a equipe formadora do 'Salgas Turismo' e ganhou 12 meses de jornada empreendedora em 2022?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14793-hackasertao",
+    "response type": "unique",
+    "response": "Vinícios Eufrazio"
+  },
+  {
+    "ask": "Qual estudante do curso técnico integrado em Informática conquistou a medalha de ouro na XV MOBFog virtual em 2021 junto com Luis Eduardo Soares?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13804-olimpiadas",
+    "response type": "unique",
+    "response": "Alyne Natyelle Freire de Menezes Pires"
+  },
+  {
+    "ask": "Qual aluna do curso técnico de Agropecuária foi uma das vencedoras da 1ª edição histórica do projeto 'Leitores do Mês' em agosto de 2014?",
+    "axio": "conquistas",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1527:projeto-leitores-do-mes-incentiva-o-uso-da-biblioteca-no-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Tarcízia Pereira"
+  },
+  {
+    "ask": "Qual estudante do campus Salgueiro conquistou a medalha de ouro na XV MOBFog virtual em 2021 junto com Alyne Natyelle?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13804-olimpiadas",
+    "response type": "unique",
+    "response": "Tálisson Roberto da Silva Gonçalves"
+  },
+  {
+    "ask": "A ex-aluna Helga Thaenia, que serviu de exemplo de sucesso institucional para o campus, foi aprovada no curso de Letras de qual renomada universidade do país?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13464-enem-2021",
+    "response type": "unique",
+    "response": "Universidade de São Paulo (USP)"
+  },
+  {
+    "ask": "A primeira portaria unificada que concedeu o Reconhecimento de Saberes e Competências (RSC) no âmbito do IFSertãoPE foi assinada no dia 04 de dezembro de 2014.",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1632:concedido-primeiro-reconhecimento-de-saberes-e-competencias-rsc-no-if-sertao-pe-&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual era o nome do reitor institucional pro tempore encarregado de gerenciar a cerimônia de posse coletiva de 97 novos servidores em agosto de 2014?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1517:cerimonia-de-posse-coletiva-marca-a-chegada-de-97-novos-servidores-ao-if-sertao-pe&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Ivaldo José da Silva"
+  },
+  {
+    "ask": "Qual professor e fotógrafo atuou coordenando as oficinas de audiovisual do Grupo de Pesquisa OcupaLab na Comunidade Quilombola em 2023?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15716-evento-29",
+    "response type": "unique",
+    "response": "Frido Claudino"
+  },
+  {
+    "ask": "O campus Salgueiro iniciou suas primeiras turmas letivas e regulares atendendo à comunidade no ano base de 2010.",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/1531:if-sertao-pe-recebe-dois-ex-alunos-como-servidores-no-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual foi a professora de Química responsável por orientar o estudante extensionista Gabriel Messias Piancó no projeto inclusivo de Kinetics em 2022?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16590-publicacao",
+    "response type": "unique",
+    "response": "Maria Lair Sabóia"
+  },
+  {
+    "ask": "Qual é a carga horária total estruturada no edital de março de 2024 para o curso de inglês básico 'Back to Basics' ofertado no Salgueiro Shopping?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16765-curso-de-ingles-basico",
+    "response type": "unique",
+    "response": "60 horas"
+  },
+  {
+    "ask": "Quantas vagas foram disponibilizadas para o curso FIC focado em caprinos e ovinos realizado na sede do Sindicato dos Trabalhadores Rurais em agosto de 2024?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/07/31/campus-salgueiro-lanca-edital-com-inscricoes-para-o-curso-de-manejo-sanitario-de-caprinos-e-ovinos-ate-09-08/",
+    "response type": "choise",
+    "choice": [
+      "15 vagas",
+      "20 vagas",
+      "25 vagas",
+      "30 vagas"
+    ],
+    "response": "25 vagas"
+  },
+  {
+    "ask": "O projeto assistencial emergencial do tipo alimentação lançado em abril de 2022 pagava parcelas no valor de R$75 aos estudantes de nível médio.",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13785-preliminardosauxilios",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "De qual distrito rural de Salgueiro era natural a estudante Débora Tâmara Félix, nomeada para atuar como técnica de laboratório no IFPI em 2024?",
+    "axio": "curiosidade",
+    "font": "https://ifsertaope.edu.br/salgueiro/2024/11/22/aluna-egressa-do-campus-salgueiro-foi-nomeada-em-concurso-do-ifpi/",
+    "response type": "unique",
+    "response": "Umãs"
+  },
+  {
+    "ask": "Quem foi a psicóloga e neuropsicóloga convidada para ministrar palestras sobre saúde e papel familiar durante o Encontro Família-Escola de junho de 2022?",
+    "axio": "curiosidade",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14054-segundaedicao",
+    "response type": "unique",
+    "response": "Anne Caroline"
+  },
+  {
+    "ask": "Qual fórum e seminário acadêmico de debate com foco no plano de governo 2015-2018 foi sediado nas dependências do campus em março de 2015?",
+    "axio": "eventos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1690:seminario-todos-por-pernambuco-reune-governo-e-sociedade-civil-para-debater-politicas-publicas-no-if-sertao-pe&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Todos por Pernambuco"
+  },
+  {
+    "ask": "Qual foi o tema central defendido na palestra da professora Maely Saraiva durante a abertura oficial das atividades científicas da SNCT em 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16272-snct-2023",
+    "response type": "unique",
+    "response": "Ciência Básica para o Desenvolvimento Sustentável"
+  },
+  {
+    "ask": "Qual importante congresso educacional em João Pessoa-PB contou com a apresentação de três artigos de autoria de servidoras de Salgueiro em outubro de 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16217-conedu-2",
+    "response type": "choise",
+    "choice": [
+      "CONEDU (Congresso Nacional de Educação)",
+      "Bienal do Livro do Sertão",
+      "Expotec",
+      "I CINEAI"
+    ],
+    "response": "CONEDU (Congresso Nacional de Educação)"
+  },
+  {
+    "ask": "A cerimônia de colação de grau unificada realizada no campus Salgueiro em abril de 2025 atendeu graduandos de Física, Sistemas e qual outro curso superior?",
+    "axio": "eventos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/04/07/celebracao-conquistas-e-inclusao-marcam-colacao-de-grau-no-ifsertaope-campus-salgueiro/",
+    "response type": "unique",
+    "response": "Tecnologia em Alimentos"
+  },
+  {
+    "ask": "Qual banda estudantil e musical animou os intervalos e encerramentos letivos da Semana de Linguagens em novembro de 2014?",
+    "axio": "eventos",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1621:discussoes-sobre-pratica-docente-e-os-desafios-do-ensino-de-linguas-marcam-palestra-de-abertura-da-semana-de-linguagens-do-campus-salgueiro&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "Banda Pop Rock Federal"
+  },
+  {
+    "ask": "Qual é o nome do aplicativo e ferramenta inteligente desenvolvida no projeto de extensão 'Parceria Academia Empresa' focado em reciclagem civil em 2025?",
+    "axio": "projetos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/04/25/campus-salgueiro-abre-selecao-para-bolsistas-em-projeto-de-extensao-tecnologica-com-foco-em-sustentabilidade-na-construcao-civil/",
+    "response type": "unique",
+    "response": "Uma Extensão Tecnológica Voltada à Caracterização Macro e Microestrutural de Resíduos"
+  },
+  {
+    "ask": "O projeto focado no agronegócio inteligente da Caatinga e manejo de caprinos que integrou a V Semana de Agropecuária em 2023 chamava-se 'Plantando Conhecimento, Colhendo Desenvolvimento'.",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16079-semana-de-agropecuaria-2",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual projeto de base científica focou na criação de uma ferramenta inteligente de monitoramento de água e foi apresentado pelo aluno André Anderson Goes em Brasília?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16156-snct-3",
+    "response type": "choise",
+    "choice": [
+      "Plataforma Deméter",
+      "ROBOX",
+      "ConectaAgro",
+      "MoveMaker"
+    ],
+    "response": "Plataforma Deméter"
+  },
+  {
+    "ask": "Qual curso de qualificação e extensão continuada atendeu professoras do ensino fundamental em agosto de 2022 abordando kits baseados em Arduino?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14261-curso-de-extensao",
+    "response type": "unique",
+    "response": "Curso de iniciação à programação aplicada à robótica"
+  },
+  {
+    "ask": "O subprojeto de extensão patrimonial 'Crioulas Vídeo' focado na preservação de heranças identitárias negras atua em qual comunidade quilombola?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15716-evento-29",
+    "response type": "unique",
+    "response": "Conceição das Crioulas"
+  },
+  {
+    "ask": "Qual é a sigla oficial do comitê discente unificado responsável por avaliar os questionários e dados estruturais de infraestrutura do campus Salgueiro desde 2014?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16216-cpa",
+    "response type": "unique",
+    "response": "CPA"
+  },
+  {
+    "ask": "Como se chama o setor corporativo financeiro e orçamentário central do IFSertãoPE encarregado de orientar os procedimentos de licitações no projeto 'Proad em Fluxo' em 2025?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/02/20/projeto-proad-em-fluxo-aperfeicoa-processos-administrativos-no-campus-salgueiro/",
+    "response type": "unique",
+    "response": "Pró-Reitoria de Orçamento e Administração"
+  },
+  {
+    "ask": "Qual lei federal tornou obrigatória a capacitação de noções básicas de primeiros socorros para professores e funcionários em estabelecimentos de ensino?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13775-primeirossocorros",
+    "response type": "choise",
+    "choice": [
+      "Lei 13.722 / Lei Lucas",
+      "Lei de Diretrizes e Bases (LDB)",
+      "Lei nº 10.861",
+      "Lei 10.639"
+    ],
+    "response": "Lei 13.722 / Lei Lucas"
+  },
+  {
+    "ask": "Qual edital normativo e regulamento oficial lançado em abril de 2025 regeu os procedimentos de concessão de auxílio-alimentação e transporte estudantil?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/04/09/campus-salgueiro-lancca-edital-de-selecao-para-auxilios-estudantis/",
+    "response type": "unique",
+    "response": "Edital nº 11/2025"
+  },
+  {
+    "ask": "O normativo governamental e edital complementar que regeu os primeiros processos seletivos de bolsas CAPES do programa PIBID de Física em Salgueiro foi o Edital nº 89/2014.",
+    "axio": "institucional",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1611:if-sertao-pe-lanca-novo-edital-para-selecao-de-bolsistas-do-pibid&catid=45:noticias&Itemid=68",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+{
+    "ask": "Quem foi o coordenador de Comunicação e Eventos da Reitoria responsável pelo lançamento do portal integrado do IFSertãoPE em 2015?",
+    "axio": "historia",
+    "font": "https://siteantigo.ifsertaope.edu.br/salgueiro/index.php?option=com_content&view=article&id=1696:if-sertao-pe-lanca-novo-site-institucional&catid=45:noticias&Itemid=68",
+    "response type": "unique",
+    "response": "João Bosco Coelho"
+  },
+  {
+    "ask": "A primeira gincana comemorativa realizada no campus Salgueiro em setembro de 2023 contou com uma prova clássica de torta na cara.",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15987-celebracao",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual professor e orientador de Educação Física esteve à frente da organização do projeto de extensão 'Basquete Federal' em 2022 e 2023?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15146-basquete",
+    "response type": "unique",
+    "response": "Juciel Lima"
+  },
+  {
+    "ask": "Qual empresa parceira atuou junto ao projeto PET de Inteligência Artificial oferecendo vagas de estágio remoto com duração de 3 meses para os alunos classificados?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/13717-bolsistaspet",
+    "response type": "unique",
+    "response": "Di2win"
+  },
+  {
+    "ask": "A primeira maratona de soluções inovadoras HackaSertão contou com mentores e parcerias estratégicas de qual escola de inovação de Recife?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16567-prorrogacao-7",
+    "response type": "choise",
+    "choice": [
+      "Cesar School",
+      "Porto Digital",
+      "Sebrae Lab",
+      "Quark Inovação"
+    ],
+    "response": "Cesar School"
+  },
+  {
+    "ask": "Qual foi o valor estipulado para a bolsa mensal concedida aos estudantes extensionistas selecionados para o projeto de sustentabilidade em resíduos de concreto em 2025?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/04/25/campus-salgueiro-abre-selecao-para-bolsistas-em-projeto-de-extensao-tecnologica-com-foco-em-sustentabilidade-na-construcao-civil/",
+    "response type": "unique",
+    "response": "R$ 700,00"
+  },
+  {
+    "ask": "Durante as atividades práticas da SNCT de 2023, os alunos puderam produzir biscoitos de qual temática festiva nos laboratórios de Alimentos?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16272-snct-2023",
+    "response type": "unique",
+    "response": "Biscoitos natalinos"
+  },
+  {
+    "ask": "A primeira turma formada no curso de Especialização e pós-graduação em Recursos Hídricos para o Semiárido defendeu suas pesquisas através de bancas virtuais.",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/15248-defesas",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual foi o arquiteto ou engenheiro que assinou e desenhou o planejamento estrutural e hidrossanitário do novo bloco de Engenharia Civil em 2023?",
+    "axio": "historia",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16212-sala",
+    "response type": "unique",
+    "response": "Marcos Padilha"
+  },
+  {
+    "ask": "Quantas vagas gratuitas de pós-graduação lato sensu em Educação a Distância na EPT foram abertas pelo IFSertãoPE no edital de junho de 2025?",
+    "axio": "institucional",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/06/17/2651/",
+    "response type": "choise",
+    "choice": [
+      "150 vagas",
+      "200 vagas",
+      "250 vagas",
+      "300 vagas"
+    ],
+    "response": "300 vagas"
+  },
+  {
+    "ask": "Qual startup de educação e tecnologia teve o seu sócio João Tompson como palestrante convidado para falar sobre negócios inovadores na SNCT de 2023?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16246-snct-2",
+    "response type": "unique",
+    "response": "Startup Quark"
+  },
+  {
+    "ask": "O projeto social de extensão 'Oficina do Saber Criativo' contextualiza brincadeiras e aulas de desenho infantil com conceitos de qual área do conhecimento?",
+    "axio": "projetos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14604-semana-das-criancas",
+    "response type": "unique",
+    "response": "Arquitetura e Urbanismo"
+  },
+  {
+    "ask": "Qual foi o valor mensal da bolsa destinada aos monitores de ensino aprovados para atuar no suporte do LabMaker no edital de 2024?",
+    "axio": "institucional",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/16578-selecao-de-monitores",
+    "response type": "unique",
+    "response": "R$ 500,00"
+  },
+  {
+    "ask": "O curso de formação continuada focado em inteligência artificial e escrita científica lançado em abril de 2025 foi planejado para atender pesquisadores iniciantes.",
+    "axio": "projetos",
+    "font": "https://ifsertaope.edu.br/salgueiro/2025/04/02/instituto-federal-do-sertao-pernambucano-abre-inscricoes-para-curso-gratuito-de-escrita-cientifica-e-inteligencia-artificial/",
+    "response type": "verdadeiro ou falso",
+    "response": "verdadeiro"
+  },
+  {
+    "ask": "Qual foi o professor responsável por coordenar e liderar os estudantes do 2º ano de Informática na fase final do desafio nacional Liga Steam em 2022?",
+    "axio": "conquistas",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14747-competicao-3",
+    "response type": "unique",
+    "response": "Marcelo Anderson"
+  },{
+    "ask": "A noite de encerramento das comemorações dos 12 anos do campus Salgueiro em 2022 contou com um show musical exclusivo de qual grupo regional?",
+    "axio": "eventos",
+    "font": "https://portalantigo.ifsertaope.edu.br/index.php/campus/salgueiro/14520-12-anos",
+    "response type": "unique",
+    "response": "Xote Federal"
+  }
+]

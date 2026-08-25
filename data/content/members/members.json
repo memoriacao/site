@@ -1,0 +1,865 @@
+[
+	{
+		"name": "Francisco Kelsen de Oliveira",
+		"slug": "francisco-kelsen",
+		"photo": "francisco-kelsen.webp",
+		"occupation": "Professor e Pesquisador",
+		"about": "Doutor em Ciência da Computação pela UFPE com ampla experiência em Tecnologia Educacional, Redes e Educação Profissional e Tecnológica no IFSertãoPE.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Ciência da Computação",
+			"Software Livre"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/9442744282313681",
+			"linkedin": ""
+		},
+		"institutional_email": "teste@gmail.com.br",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Instituto Federal do Sertão Pernambucano (IFSertãoPE)",
+		"projects": [
+			"Ambiente integrado online de autoria e compartilhamento de REAs",
+			"Práticas educacionais mediadas por TDICs na EPT",
+			"Plataforma de cursos online: proposta de MOOC's no IF Sertão-PE",
+			"FindNet - Rastreamento Veicular",
+			"iHealth - Sistema de diagnóstico assistido"
+		],
+		"trajectory": [
+			{
+				"title": "Doutorado em Ciência da Computação",
+				"university_sigle": "UFPE",
+				"year": "2017",
+				"about": "Pesquisa focada em reuso de unidades de aprendizagem para múltiplas plataformas."
+			},
+			{
+				"title": "Mestrado em Computação Aplicada",
+				"university_sigle": "UECE",
+				"year": "2010",
+				"about": "Estudo sobre o uso de vídeo pela Internet como ferramenta educacional no ensino da Geometria."
+			},
+			{
+				"title": "Bacharelado em Sistemas de Informação",
+				"university_sigle": "UNESA",
+				"year": "2014",
+				"about": "Formação voltada para o desenvolvimento e gestão de sistemas tecnológicos."
+			},
+			{
+				"title": "Licenciatura em Matemática",
+				"university_sigle": "UECE",
+				"year": "2007",
+				"about": "Graduação base para atuação no ensino e pesquisa acadêmica."
+			},
+			{
+				"title": "Técnico em Informática",
+				"university_sigle": "IFCE",
+				"year": "2012",
+				"about": "Formação técnica profissionalizante no Instituto Federal do Ceará."
+			},
+			{
+				"title": "Professor EBTT",
+				"university_sigle": "IFSertãoPE",
+				"year": "2011-Atual",
+				"about": "Docente em cursos técnicos, graduação e mestrado profissional."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "Kélvya Freitas Abreu",
+		"slug": "kelvya-abreu",
+		"photo": "kelvya-abreu.webp",
+		"occupation": "Professora e Pesquisadora",
+		"about": "Doutora em Letras pela UERN e Mestre pela UFC. Atua no IFSertãoPE com foco em Linguística Aplicada, Ensino de Espanhol e múltiplos letramentos na EPT.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Linguística",
+			"Letramentos"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/8256713003295566",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Instituto Federal do Sertão Pernambucano (IFSertãoPE)",
+		"projects": [
+			"Laboratório interdisciplinar de escrita",
+			"Comunidade virtual para planejamento curricular",
+			"Catálogo do Museu de Ciências Professor Antônio Carneiro",
+			"Práticas Pedagógicas às práticas educativas no SUS",
+			"Organizações e Memórias de Espaços Pedagógicos na EPT"
+		],
+		"trajectory": [
+			{
+				"title": "Doutorado em Letras",
+				"university_sigle": "UERN",
+				"year": "2021",
+				"about": "Pesquisa voltada para a área de Estudos do Discurso e do Texto."
+			},
+			{
+				"title": "Mestrado em Linguística",
+				"university_sigle": "UFC",
+				"year": "2011",
+				"about": "Foco em construção de sentidos e ensino de língua estrangeira."
+			},
+			{
+				"title": "Licenciatura em Letras (Português/Espanhol)",
+				"university_sigle": "UFC",
+				"year": "2008",
+				"about": "Graduação com ênfase no ensino de línguas e literaturas."
+			},
+			{
+				"title": "Especialização em Metodologias do Ensino de Línguas",
+				"university_sigle": "IFSertãoPE",
+				"year": "2014",
+				"about": "Aperfeiçoamento docente para o ensino de línguas estrangeiras."
+			},
+			{
+				"title": "Professora EBTT",
+				"university_sigle": "IFSertãoPE",
+				"year": "2012-Atual",
+				"about": "Docente de Língua Espanhola atuando desde o Ensino Médio até o Mestrado Profissional."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "Ana Carolina de Oliveira",
+		"slug": "ana-oliveira",
+		"photo": "ana-oliveira.webp",
+		"occupation": "Graduanda em Direito e Técnica em Informática",
+		"about": "Estudante de Direito na UPE e Técnica em Informática pelo IFSertãoPE. Atua em projetos de extensão e monitoria com foco em memória institucional.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Direito",
+			"Extensão"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/3945374216993162",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Universidade de Pernambuco (UPE)",
+		"projects": [
+			"Memori(A)ção: a extensão no campus Salgueiro"
+		],
+		"trajectory": [
+			{
+				"title": "Graduação em Direito",
+				"university_sigle": "UPE",
+				"year": "2026-Atual",
+				"about": "Desenvolvimento de competências em pesquisa e extensão na graduação."
+			},
+			{
+				"title": "Técnico em Informática",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2023-2025",
+				"about": "Formação profissional técnica integrada ao ensino médio no campus Salgueiro."
+			},
+			{
+				"title": "Bolsista de Monitoria",
+				"university_sigle": "EREM Francisco Pires",
+				"year": "2025",
+				"about": "Atuação no Programa de Monitoramento de Pernambuco na Escola."
+			},
+			{
+				"title": "Voluntária em Extensão",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2025",
+				"about": "Participação no projeto MemoriAção focado em registros históricos."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "João Henrique Novaes Torres",
+		"slug": "joao-henrique",
+		"photo": "joao-henrique.webp",
+		"occupation": "Estudante de Informática e Bolsista de Iniciação Científica",
+		"about": "Aluno de Informática no IFSertãoPE e bolsista PIBIC-Jr. Possui conhecimentos em Python, HTML e CSS, atuando em projetos de inovação tecnológica.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Informática",
+			"Iniciação Científica"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/1930760576124249",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Instituto Federal do Sertão Pernambucano (IFSertãoPE)",
+		"projects": [
+			"Memórias em cada espaço Campus Salgueiro para colorir",
+			"Desenvolvimento de soluções tecnológicas (PIBIC-Jr)"
+		],
+		"trajectory": [
+			{
+				"title": "Ensino Médio Integrado em Informática",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2024-Atual",
+				"about": "Formação técnica voltada ao desenvolvimento de software e soluções tecnológicas."
+			},
+			{
+				"title": "Ensino Fundamental",
+				"university_sigle": "EGSM",
+				"year": "2023",
+				"about": "Conclusão do nível fundamental na Escola Gregório de Souza Menezes."
+			},
+			{
+				"title": "Bolsista PIBIC-Jr",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2024-Atual",
+				"about": "Atuação em pesquisa científica e desenvolvimento de projetos inovadores."
+			},
+			{
+				"title": "Autor de Livro Didático",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2026",
+				"about": "Organizador e autor da obra 'Memórias em cada espaço Campus Salgueiro para colorir'."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "Lucieudo Roberto Dias dos Santos",
+		"slug": "lucieudo-roberto",
+		"photo": "lucieudo-roberto.webp",
+		"occupation": "Graduando em Sistemas para Internet",
+		"about": "Estudante no IFSertãoPE e bolsista PIBIC. Desenvolve ambientes virtuais e soluções digitais para preservação de memória e práticas educativas.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Sistemas para Internet",
+			"Inovação"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/6653984231234077",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Instituto Federal do Sertão Pernambucano (IFSertãoPE)",
+		"projects": [
+			"Memori(a)ção: Museu virtual interativo para preservação da Memória Institucional",
+			"Memori(A)ção: Criando perspectiva e inovação (Website)"
+		],
+		"trajectory": [
+			{
+				"title": "Graduação em Sistemas para Internet",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2023-Atual",
+				"about": "Foco em desenvolvimento de sistemas, interatividade e impacto social através da tecnologia."
+			},
+			{
+				"title": "Bolsista de Iniciação Científica (PIBIC)",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2024-Atual",
+				"about": "Pesquisa voltada à criação de portais interativos e produtos educacionais digitais."
+			},
+			{
+				"title": "Suporte em TI",
+				"university_sigle": "Sertão-TI",
+				"year": "2018",
+				"about": "Experiência técnica em manutenção e suporte de infraestrutura tecnológica."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "Marcos Pedro Da Silva Januário",
+		"slug": "marcos-pedro",
+		"photo": "marcos-pedro.webp",
+		"occupation": "Graduando em Engenharia Civil e Técnico em Edificações",
+		"about": "Estudante de Engenharia Civil no IFSertãoPE e Técnico em Edificações. Atua como bolsista PIBIC em projetos de gestão e memória institucional.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Engenharia Civil",
+			"Pesquisa"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/9584091215753904",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Instituto Federal do Sertão Pernambucano (IFSertãoPE)",
+		"projects": [
+			"Memori(A)ção: a Pesquisa no Campus Salgueiro: a gestão em foco",
+			"Inventário dos bens imóveis de valor histórico da cidade de Serrita",
+			"Memórias em cada espaço Campus Salgueiro para colorir"
+		],
+		"trajectory": [
+			{
+				"title": "Graduação em Engenharia Civil",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2025-Atual",
+				"about": "Desenvolvimento acadêmico voltado para a construção civil e infraestrutura."
+			},
+			{
+				"title": "Técnico em Edificações",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2022-2025",
+				"about": "Formação profissional técnica com foco em projetos e execução de obras."
+			},
+			{
+				"title": "Bolsista PIBIC",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2024-Atual",
+				"about": "Pesquisa científica focada na gestão e memória do Campus Salgueiro."
+			},
+			{
+				"title": "Monitor de Exposição",
+				"university_sigle": "Serrita",
+				"year": "2023",
+				"about": "Atuação na Mostra Itinerante 'Pro cabôco Vê' durante a II EXPOSERRITA."
+			},
+			{
+				"title": "Coordenador de Projeto de Pesquisa",
+				"university_sigle": "Serrita",
+				"year": "2022-2023",
+				"about": "Liderança no inventário de bens imóveis históricos da cidade de Serrita."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "Pedro Victor Araújo dos Santos",
+		"slug": "pedro-victor",
+		"photo": "pedro-victor.webp",
+		"occupation": "Historiador e Pesquisador",
+		"about": "Mestrando em Educação pela URCA e Historiador. Atua no Laboratório Maker do IFSertãoPE, pesquisando narrativas orais e jogos africanos na educação.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"História",
+			"Cultura Afro-Brasileira"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/6419148593257411",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Universidade Regional do Cariri (URCA)",
+		"projects": [
+			"Laboratório Maker do IFSertãoPE - Campus Salgueiro",
+			"Práticas populares e narrativas orais no Sertão",
+			"Utilização de jogos africanos como ferramenta didática"
+		],
+		"trajectory": [
+			{
+				"title": "Mestrado em Educação (em andamento)",
+				"university_sigle": "URCA",
+				"year": "2025-Atual",
+				"about": "Pesquisa voltada para processos de ensino e aprendizagem na educação contemporânea."
+			},
+			{
+				"title": "Graduação em História",
+				"university_sigle": "URCA",
+				"year": "2015",
+				"about": "Formação base em pesquisa histórica, ensino e narrativas regionais."
+			},
+			{
+				"title": "Segunda Licenciatura em Pedagogia",
+				"university_sigle": "UNIASSELVI",
+				"year": "2022",
+				"about": "Complementação pedagógica voltada para a gestão e práticas de ensino."
+			},
+			{
+				"title": "Especialização em Gestão Escolar",
+				"university_sigle": "UNIASSELVI",
+				"year": "2021",
+				"about": "Foco na administração e coordenação de ambientes educativos."
+			},
+			{
+				"title": "Especialização em História e Cultura Afro-Brasileira",
+				"university_sigle": "UNIASSELVI",
+				"year": "2021",
+				"about": "Estudo aprofundado sobre identidades e valorização das origens africanas."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "Sara Shayanne Rodrigues Isidório",
+		"slug": "sara-shayanne",
+		"photo": "sara-shayanne.webp",
+		"occupation": "Estudante de Informática e Bolsista de Iniciação Científica",
+		"about": "Aluna de Informática no IFSertãoPE e bolsista PIBIC-Jr pelo CNPq. Pesquisa análise discursiva e práticas educacionais tecnológicas no grupo GEPET.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Informática",
+			"Iniciação Científica"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/0510269754436004",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Instituto Federal do Sertão Pernambucano (IFSertãoPE)",
+		"projects": [
+			"Análise discursiva do gênero resumen em TCCs do IFSertãoPE",
+			"Memori(A)ção: material didático interativo a partir de mídias digitais",
+			"Memori(A)ção: a pesquisa no campus Salgueiro: escritas narrativas",
+			"Memori(A)ção: a Extensão no Campus Salgueiro: narrativas em tela"
+		],
+		"trajectory": [
+			{
+				"title": "Ensino Médio Integrado em Informática",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2023-Atual",
+				"about": "Formação técnica com foco em desenvolvimento de sistemas e práticas educacionais tecnológicas."
+			},
+			{
+				"title": "Bolsista PIBIC-Jr (CNPq)",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2024-Atual",
+				"about": "Desenvolvimento de pesquisa acadêmica sobre análise discursiva em trabalhos de conclusão de curso."
+			},
+			{
+				"title": "Membro do GEPET",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2024-Atual",
+				"about": "Participação no Grupo de Estudos e Pesquisas em Práticas Educacionais Tecnológicas."
+			},
+			{
+				"title": "Bolsista de Extensão (MemoriAção)",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2023-2024",
+				"about": "Atuação em projetos voltados para a preservação da memória institucional e produção de mídias."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "Roberto Rolim Lopes",
+		"slug": "roberto-rolim",
+		"photo": "roberto-rolim.webp",
+		"occupation": "Coordenador de Patrimônio e Mestrando em EPT",
+		"about": "Mestrando no ProfEPT pelo IFSertãoPE com licenciaturas em Computação e Pedagogia. Especialista em Gamificação e coordenador administrativo no IFPB.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Gestão Pública",
+			"Gamificação"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/2015940041054159",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "Instituto Federal da Paraíba (IFPB)",
+		"projects": [
+			"Memori(A)ção: material didático interativo a partir de mídias digitais",
+			"Grupo de Estudos e Pesquisas em Práticas Educacionais Tecnológicas (GEPET)"
+		],
+		"trajectory": [
+			{
+				"title": "Mestrado Profissional em Educação Profissional e Tecnológica",
+				"university_sigle": "IFSERTÃOPE",
+				"year": "2024-Atual",
+				"about": "Pesquisa voltada para a área de educação profissional e tecnológica no campus Salgueiro."
+			},
+			{
+				"title": "Especialização em Gamificação na Educação",
+				"university_sigle": "UNICESUMAR",
+				"year": "2025",
+				"about": "Estudo sobre a aplicação de elementos de jogos em processos de aprendizagem."
+			},
+			{
+				"title": "Licenciatura em Computação",
+				"university_sigle": "UFPB",
+				"year": "2018",
+				"about": "Formação docente focada no ensino de informática e tecnologias educacionais."
+			},
+			{
+				"title": "Licenciatura em Pedagogia",
+				"university_sigle": "ISEC",
+				"year": "2013",
+				"about": "Desenvolvimento de competências pedagógicas para o ensino básico."
+			},
+			{
+				"title": "Coordenador de Patrimônio",
+				"university_sigle": "IFPB",
+				"year": "2010-Atual",
+				"about": "Atuação na gestão administrativa e controle patrimonial da instituição."
+			}
+		],
+		"how_to_contribute": ""
+	},
+	{
+		"name": "Kelly Vitória Matias Rocha",
+		"slug": "kelly-vitoria",
+		"photo": "kelly-vitoria.webp",
+		"occupation": "Estudante do Ensino Médio Integrado ao Técnico em Edificações",
+		"about": "Estudante de Edificações, bolsista PIBIC-Jr e integrante de projetos de pesquisa e práticas educacionais.",
+		"tags": [
+			"Edificações",
+			"Iniciação Científica",
+			"Pesquisa Educacional",
+			"Engenharia Civil"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/0524427087699623",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Engenharia Civil",
+		"institution": "Instituto Federal do Sertão Pernambucano",
+		"projects": [
+			"Memor(i)Ação: nossa história em movimento",
+			"Memori(A)ção: Análise discursiva do gênero",
+			"Análise discursiva de TCCs como comunidades de prática",
+			"Portas do Conhecimento: Site para estudos"
+		],
+		"trajectory": [
+			{
+				"title": "Ensino Fundamental",
+				"university_sigle": "EPMG",
+				"year": "2017-2024",
+				"about": "Formação no Ensino Fundamental."
+			},
+			{
+				"title": "Ensino Médio Integrado ao Técnico em Edificações",
+				"university_sigle": "IF-Sertão PE",
+				"year": "2025",
+				"about": "Cursando ensino médio integrado ao curso técnico em Edificações."
+			},
+			{
+				"title": "Membro do GEPET",
+				"university_sigle": "IF-Sertão PE",
+				"year": "2025",
+				"about": "Participação no Grupo de Estudos e Pesquisas em Práticas Educacionais Tecnológicas."
+			},
+			{
+				"title": "Análise discursiva de TCCs como comunidades de prática",
+				"university_sigle": "IF-Sertão PE",
+				"year": "2024",
+				"about": "Projeto de pesquisa sobre comunidades de prática e escrita acadêmica."
+			},
+			{
+				"title": "Bolsista de Iniciação Científica (PIBIC-Jr)",
+				"university_sigle": "IF-Sertão PE",
+				"year": "2026",
+				"about": "Atuação como bolsista com dedicação exclusiva em iniciação científica."
+			},
+			{
+				"title": "Memor(i)Ação: nossa história em movimento",
+				"university_sigle": "IF-Sertão PE",
+				"year": "2026",
+				"about": "Projeto de pesquisa sobre memória institucional do Campus Salgueiro."
+			},
+			{
+				"title": "Memori(A)ção: Análise discursiva do gênero",
+				"university_sigle": "IF-Sertão PE",
+				"year": "2026",
+				"about": "Pesquisa qualitativa baseada em análise do discurso de TCCs."
+			}
+		],
+		"how_to_contribute": "Fazer o levantamento, leitura analítica e catalogação dos agradecimentos presentes nos TCCs institucionais."
+	},
+	{
+		"name": "Joyce Jaqueliny De Barros Silva",
+		"slug": "joyce-jaqueliny",
+		"photo": "joyce-jaqueliny.webp",
+		"occupation": "Discente do ensino médio integrado ao curso técnico em Edificações e Bolsista PIBEX",
+		"about": "Estudante de Edificações no IFSertãoPE, atuando como bolsista PIBEX em projetos de pesquisa e extensão focados em memória institucional.",
+		"tags": [
+			"Edificações",
+			"Construção Civil",
+			"Memória Institucional",
+			"Extensão Tecnológica"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/1820513426507549",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Engenharia Civil e Extensão Cultural",
+		"institution": "IFSertãoPE - Campus Salgueiro",
+		"projects": [
+			"Memor(i)Ação: nossa história em movimento",
+			"Memori(A)ção: Vozes em Movimento documentário sobre o Campus Salgueiro"
+		],
+		"trajectory": [
+			{
+				"title": "Ensino Fundamental (1º grau)",
+				"university_sigle": "EFAC",
+				"year": "2016-2024",
+				"about": "Conclusão do ensino fundamental na Escola Francisco Alves de Carvalho."
+			},
+			{
+				"title": "Curso de Extensão em Word",
+				"university_sigle": "CURSO EM VÍDEO",
+				"year": "2025",
+				"about": "Formação complementar em processamento de texto com carga horária de 40 horas."
+			},
+			{
+				"title": "Curso de Extensão em Excel",
+				"university_sigle": "CURSO EM VÍDEO",
+				"year": "2025",
+				"about": "Formação complementar em planilhas eletrônicas com carga horária de 40 horas."
+			},
+			{
+				"title": "Ensino Médio Integrado ao Técnico em Edificações",
+				"university_sigle": "IFSertãoPE",
+				"year": "2025",
+				"about": "Ingresso no ensino médio técnico no Campus Salgueiro."
+			},
+			{
+				"title": "Bolsista PIBEX / Integrante de Projeto de Pesquisa",
+				"university_sigle": "IFSertãoPE",
+				"year": "2026",
+				"about": "Atuação no projeto 'Memor(i)Ação: nossa história em movimento' para a criação de um espaço digital de memória institucional."
+			},
+			{
+				"title": "Bolsista PIBEX / Integrante de Projeto de Extensão",
+				"university_sigle": "IFSertãoPE",
+				"year": "2026",
+				"about": "Atuação no projeto de produção de documentário audiovisual sobre os 15 anos do Campus Salgueiro."
+			}
+		],
+		"how_to_contribute": "Apoiar a logística de gravação, captação de entrevistas e assistência geral na produção dos elementos audiovisuais."
+	},
+	{
+		"name": "Larissa Matias Santos",
+		"slug": "larissa-matias",
+		"photo": "larissa-matias.webp",
+		"occupation": "Estudante Técnica em Informática",
+		"about": "Estudante do IF Sertão-PE, cursando Informática integrado ao Ensino Médio. Atua em projetos de pesquisa e extensão focados em memória institucional e comunidades quilombolas.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Inovação Social",
+			"Desenvolvimento Web"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/4510725281270354",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "IFSertãoPE",
+		"projects": [
+			"Memori(A)ção: nossa história em movimento",
+			"Memori(A)ção: trajetórias, vozes e pertencimentos no Campus Salgueiro"
+		],
+		"trajectory": [
+			{
+				"title": "Ensino Fundamental (1º grau)",
+				"university_sigle": "EMSR",
+				"year": "2016-2024",
+				"about": "Conclusão do Ensino Fundamental na Escola Municipal Santa Rosa."
+			},
+			{
+				"title": "Ensino Médio integrado ao Técnico em Informática",
+				"university_sigle": "IFSertãoPE",
+				"year": "2025-Atual",
+				"about": "Formação regular integrada ao ensino profissionalizante técnico no campus Salgueiro."
+			},
+			{
+				"title": "Cursos de Extensão em Lógica e Algoritmos",
+				"university_sigle": "IFRS / CV",
+				"year": "2025",
+				"about": "Capacitação complementar em Lógica de Programação e Algoritmos."
+			},
+			{
+				"title": "Capacitação em Comunicação e Português",
+				"university_sigle": "IFMG / IFRS",
+				"year": "2025",
+				"about": "Cursos de Comunicação oral e escrita e Português Instrumental."
+			},
+			{
+				"title": "Participação no Projeto Memori(A)ção (Pesquisa)",
+				"university_sigle": "IFSertãoPE",
+				"year": "2026-Atual",
+				"about": "Pesquisa voltada à criação do espaço digital de Memória Institucional do campus."
+			},
+			{
+				"title": "Participação no Projeto Memori(A)ção (Extensão)",
+				"university_sigle": "IFSertãoPE",
+				"year": "2026-Atual",
+				"about": "Ações de valorização e mídias digitais para comunidades quilombolas e indígenas."
+			}
+		],
+		"how_to_contribute": "Atuar como bolsista no desenvolvimento de ações voltadas à memória, pertencimento e representatividade de povos indígenas e quilombolas."
+	},
+	{
+		"name": "Vinícius Gomes Cruz",
+		"slug": "vinicius-gomes",
+		"photo": "vinicius-gomes.webp",
+		"occupation": "Estudante Técnico em Informática",
+		"about": "Atua em projetos focados na valorização, inclusão social e reconhecimento da diversidade, promovendo a visibilidade de públicos historicamente sub-representados em ações extensionistas.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Inovação Social",
+			"Desenvolvimento Web"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/7762758802941046",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "IFSertãoPE",
+		"projects": [
+			"Memori(A)ção: nossa história em movimento",
+			"Memori(A)ção: Ações Afirmativas e Identidade Institucional do Campus Salgueiro"
+		],
+		"trajectory": [
+			{
+				"title": "Ensino Fundamental (1º grau)",
+				"university_sigle": "EMFFS",
+				"year": "2021-2024",
+				"about": "Conclusão do Ensino Fundamental na Escola Municipal Francisco Filgueira Sampaio."
+			},
+			{
+				"title": "Ensino Médio integrado ao Técnico em Informática",
+				"university_sigle": "IFSertãoPE",
+				"year": "2025-Atual",
+				"about": "Desenvolvimento acadêmico e formação técnica profissionalizante em andamento no Campus Salgueiro."
+			},
+			{
+				"title": "Cursos de Extensão em Lógica de Programação",
+				"university_sigle": "IFRS",
+				"year": "2025",
+				"about": "Capacitação complementar em Lógica de Programação com foco no desenvolvimento de software."
+			},
+			{
+				"title": "Formação Complementar em Design e Linguagem",
+				"university_sigle": "LPT / IFRS",
+				"year": "2025",
+				"about": "Cursos de Português Instrumental e Canva do zero voltado ao design acadêmico."
+			},
+			{
+				"title": "Participação no Projeto Memori(A)ção (Pesquisa)",
+				"university_sigle": "IFSertãoPE",
+				"year": "2026-Atual",
+				"about": "Atuação em pesquisa focada no resgate histórico e criação de um espaço digital de memória."
+			},
+			{
+				"title": "Participação no Projeto Memori(A)ção (Extensão)",
+				"university_sigle": "IFSertãoPE",
+				"year": "2026-Atual",
+				"about": "Produção e curadoria de conteúdo para mídias digitais visando a visibilidade de públicos sub-representados."
+			}
+		],
+		"how_to_contribute": "Colaborar com a ampliação e dinamização das redes sociais do projeto MEMORI(A)ÇÃO, ajudando na divulgação das ações de extensão do IF Sertão-PE Campus Salgueiro. Participa da organização e divulgação de narrativas, registros audiovisuais, imagens e relatos de experiências extensionistas, visando fortalecer uma comunicação acessível, inclusiva e que valorize públicos historicamente sub-representados (mulheres, pessoas negras, pessoas com deficiência, população LGBTQIA+, pessoas idosas e povos do campo)."
+	},
+	{
+		"name": "Tamíris de Oliveira Leite",
+		"slug": "tamiris-oliveira",
+		"photo": "tamiris-oliveira.webp",
+		"occupation": "Estudante Técnica em Informática",
+		"about": "Estudante do IF Sertão-PE, cursando Informática integrado ao Ensino Médio. Atua em projetos de pesquisa e extensão focados em memória e produção audiovisual.",
+		"tags": [
+			"Educação",
+			"Tecnologia",
+			"Inovação Social",
+			"Desenvolvimento Web"
+		],
+		"social_links": {
+			"instagram": "",
+			"github": "",
+			"facebook": "",
+			"lattes": "http://lattes.cnpq.br/2470011528671268",
+			"linkedin": ""
+		},
+		"institutional_email": "",
+		"actuation_area": "Educação e Tecnologia",
+		"institution": "IFSertãoPE",
+		"projects": [
+			"Memori(A)ção: nossa história em movimento",
+			"Memori(A)ção: Vozes em Movimento documentário sobre o Campus Salgueiro"
+		],
+		"trajectory": [
+			{
+				"title": "Ensino Fundamental (1º grau)",
+				"university_sigle": "EMSR",
+				"year": "2015-2023",
+				"about": "Conclusão do Ensino Fundamental na Escola Municipal Santa Rosa."
+			},
+			{
+				"title": "Ensino Médio integrado ao Técnico em Informática",
+				"university_sigle": "IFSertãoPE",
+				"year": "2025-Atual",
+				"about": "Formação regular integrada ao ensino profissionalizante técnico no campus Salgueiro."
+			},
+			{
+				"title": "Cursos de Extensão em Lógica de Programação",
+				"university_sigle": "IFRS",
+				"year": "2025",
+				"about": "Capacitação complementar em Lógica de Programação com foco no desenvolvimento de programas."
+			},
+			{
+				"title": "Formação Complementar em Design e Humanidades",
+				"university_sigle": "LPT / IFRS",
+				"year": "2025",
+				"about": "Cursos complementares de História do Brasil, Português Instrumental e Canva do zero."
+			},
+			{
+				"title": "Participação no Projeto Memori(A)ção (Pesquisa)",
+				"university_sigle": "IFSertãoPE",
+				"year": "2026-Atual",
+				"about": "Pesquisa voltada à criação de espaço digital integrando narrativas da Memória Institucional."
+			},
+			{
+				"title": "Bolsista no Projeto Memori(A)ção (Extensão)",
+				"university_sigle": "IFSertãoPE",
+				"year": "2026-Atual",
+				"about": "Atuação como bolsista PIBEX Técnico na coleta de entrevistas e produção de documentário audiovisual."
+			}
+		],
+		"how_to_contribute": "Coletar depoimentos, organizar registros históricos e atuar na produção do documentário audiovisual focado na trajetória dos egressos em celebração aos 15 anos do Campus Salgueiro."
+	}
+]
