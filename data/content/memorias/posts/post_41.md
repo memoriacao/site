@@ -4,14 +4,14 @@ title: "Homenagem a Paulo Garcez Leães: Onde o Mestre se fez Poesia e o Sertão
 categoria: "Institucional"
 tags: [luto, homenagem,paulo, garcez, Leães]
 criado: "2026-03-24 13:06:00"
-atualizado: "2026-08-25 13:33:12"
+atualizado: "2026-08-09 23:24:29"
 image: "homenagem-a-paulo-garcez-leaes-onde-o-mestre-se-fe-jvywvd.webp"
 data: 2026
 ---
 
 Há pouco mais de dois anos, no dia **24 de janeiro de 2024**, o tempo parou para nós. O coração do nosso querido **Educador Dr. Paulo Garcez Leães** silenciou, mas o eco da sua existência continua a vibrar em cada canto deste Campus que ele tanto amou. Esta não é apenas uma lembrança de sua partida, mas uma celebração da luz que ele espalhou em seus 49 anos de vida
 
-![ya4adcza4a](/site/images/post-assets/ya4adcza4a.webp)
+![image 01](paulo-garcez-leaes-a534f.webp)
 
 > Paulo era o "menino que não gostava de correr, mas que amava morar entre os livros". Este olhar sereno atravessou fronteiras, partindo do seu Rio Grande do Sul para se tornar a alma pedagógica do nosso Sertão.
 
@@ -22,7 +22,7 @@ Doutor em Letras e entusiasta do saber, Paulo não ocupava apenas cargos; ele vi
 
 Não é apenas uma placa na parede; é o reconhecimento de que aquele espaço  palco de tantos debates, ensinamentos e sonhos  agora é, por direito, a casa do seu legado. Onde sua voz mansa e paciente tantas vezes nos guiou, seu nome agora acolhe as futuras gerações de estudantes.
 
-![udfaxfr3a5](/site/images/post-assets/udfaxfr3a5.webp)
+![image_02](paulo-garcez-leaes-palestra-salgueiro-a534f.webp)
 
 >A imagem da imortalidade acadêmica. Onde houve sua fala, agora haverá seu legado, inspirando as gerações que cruzarem este auditório.
 
@@ -31,7 +31,7 @@ Não é apenas uma placa na parede; é o reconhecimento de que aquele espaço  p
 
 Mas Paulo também era movimento. O marido dedicado da nossa querida Cris, o guia sensível de atletas cegos e o apaixonado pela liberdade sobre duas rodas. Ele entendia que a vida exige coragem para abrir os braços e sentir o mundo.
 
-![yadbd3a5vf](/site/images/post-assets/yadbd3a5vf.webp)
+![image_03](paulo-garcez-leaes-em-um-moto-a534f.webp)
 
 > Esta foto é o resumo da sua alma: livre e plena. Paulo viveu intensamente, com a coragem de quem sabe que a missão foi cumprida.
 
