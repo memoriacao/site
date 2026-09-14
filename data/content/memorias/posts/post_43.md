@@ -2,14 +2,12 @@
 id: 43
 title: "Construindo o Amanhã nas Páginas do Presente: Reflexões sobre a OSI 2026"
 categoria: "Eventos"
-tags: [OSI,informática,informatica]
+tags: [OSI,informática]
 criado: "2026-09-14 22:37:48"
-atualizado: "2026-09-14 22:37:48"
+atualizado: "2026-09-14 22:47:52"
 image: "osi-edicao-2026.webp"
 data: 2026
 ---
-
-Construindo o Amanhã nas Páginas do Presente: Reflexões sobre a OSI 2026
 
 Há eventos no calendário do IFSertãoPE Campus Salgueiro que transcendem a mera competição acadêmica. A Olimpíada Salgueirense de Informática (OSI) é, antes de tudo, um espaço de aprendizagem, desafio e descoberta, onde estudantes colocam à prova seus conhecimentos e encontram novas possibilidades dentro do universo da tecnologia.
 
